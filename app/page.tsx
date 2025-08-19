@@ -6,18 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
 import { CheckCircle, XCircle, RotateCcw, BookOpen, Trophy, Target } from "lucide-react"
-import { ThemeToggle } from "@/components/theme-toggle"
-import { quizData } from "@/lib/quiz-data"
-
-interface Question {
-  id: number
-  question: string
-  options: string[]
-  correctAnswer: string
-  explanation: string
-  source: string
-  topic: string
-}
+import { quizData, topics, type QuizQuestion } from "@/lib/quiz-data"
 
 interface QuizStats {
   correct: number
@@ -27,24 +16,17 @@ interface QuizStats {
 }
 
 export default function JavaQuizApp() {
-  const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null)
+  const [currentQuestion, setCurrentQuestion] = useState<QuizQuestion | null>(null)
   const [selectedAnswer, setSelectedAnswer] = useState<string>("")
   const [showResult, setShowResult] = useState(false)
   const [stats, setStats] = useState<QuizStats>({ correct: 0, total: 0, streak: 0, bestStreak: 0 })
-  const [selectedTopic, setSelectedTopic] = useState<string>("all")
+  const [selectedTopic, setSelectedTopic] = useState<string>("All Topics")
   const [usedQuestions, setUsedQuestions] = useState<Set<number>>(new Set())
 
-  const topics = [
-    "all",
-    "Classes & Objects",
-    "Modifiers & Encapsulation",
-    "Inheritance & Polymorphism",
-    "Interfaces & Abstract Classes",
-    "UML & Design",
-  ]
+  const availableTopics = topics
 
   const getFilteredQuestions = () => {
-    if (selectedTopic === "all") return quizData
+    if (selectedTopic === "All Topics") return quizData
     return quizData.filter((q) => q.topic === selectedTopic)
   }
 
@@ -103,100 +85,92 @@ export default function JavaQuizApp() {
   const accuracy = stats.total > 0 ? Math.round((stats.correct / stats.total) * 100) : 0
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800 p-4 transition-colors">
+    <div className="min-h-screen bg-slate-950 p-6 transition-colors">
       <div className="max-w-4xl mx-auto">
-        {/* Header */}
-        <div className="text-center mb-8">
-          <div className="flex justify-between items-center mb-4">
-            <div></div>
-            <ThemeToggle />
-          </div>
-          <h1 className="text-4xl font-bold text-gray-800 dark:text-gray-100 mb-2 flex items-center justify-center gap-2">
-            <BookOpen className="text-blue-600 dark:text-blue-400" />
+        <div className="text-center mb-10">
+          <h1 className="text-4xl font-bold text-slate-100 mb-3 flex items-center justify-center gap-3">
+            <BookOpen className="text-blue-400" size={36} />
             Java OOP Quiz
           </h1>
-          <p className="text-gray-600 dark:text-gray-300">
-            Kiểm tra kiến thức Java Object-Oriented Programming của bạn
-          </p>
+          <p className="text-slate-400 text-lg">Kiểm tra kiến thức Java Object-Oriented Programming của bạn</p>
         </div>
 
-        {/* Stats Dashboard */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
-          <Card className="dark:bg-gray-800 dark:border-gray-700">
-            <CardContent className="p-4 text-center">
-              <Target className="w-8 h-8 text-blue-600 dark:text-blue-400 mx-auto mb-2" />
-              <div className="text-2xl font-bold text-gray-800 dark:text-gray-100">{accuracy}%</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Độ chính xác</div>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+          <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+            <CardContent className="p-5 text-center">
+              <Target className="w-8 h-8 text-blue-400 mx-auto mb-3" />
+              <div className="text-2xl font-bold text-slate-100">{accuracy}%</div>
+              <div className="text-sm text-slate-400">Độ chính xác</div>
             </CardContent>
           </Card>
 
-          <Card className="dark:bg-gray-800 dark:border-gray-700">
-            <CardContent className="p-4 text-center">
-              <CheckCircle className="w-8 h-8 text-green-600 dark:text-green-400 mx-auto mb-2" />
-              <div className="text-2xl font-bold text-gray-800 dark:text-gray-100">
+          <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+            <CardContent className="p-5 text-center">
+              <CheckCircle className="w-8 h-8 text-emerald-400 mx-auto mb-3" />
+              <div className="text-2xl font-bold text-slate-100">
                 {stats.correct}/{stats.total}
               </div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Đúng/Tổng</div>
+              <div className="text-sm text-slate-400">Đúng/Tổng</div>
             </CardContent>
           </Card>
 
-          <Card className="dark:bg-gray-800 dark:border-gray-700">
-            <CardContent className="p-4 text-center">
-              <Trophy className="w-8 h-8 text-yellow-600 dark:text-yellow-400 mx-auto mb-2" />
-              <div className="text-2xl font-bold text-gray-800 dark:text-gray-100">{stats.streak}</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Chuỗi hiện tại</div>
+          <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+            <CardContent className="p-5 text-center">
+              <Trophy className="w-8 h-8 text-amber-400 mx-auto mb-3" />
+              <div className="text-2xl font-bold text-slate-100">{stats.streak}</div>
+              <div className="text-sm text-slate-400">Chuỗi hiện tại</div>
             </CardContent>
           </Card>
 
-          <Card className="dark:bg-gray-800 dark:border-gray-700">
-            <CardContent className="p-4 text-center">
-              <Trophy className="w-8 h-8 text-purple-600 dark:text-purple-400 mx-auto mb-2" />
-              <div className="text-2xl font-bold text-gray-800 dark:text-gray-100">{stats.bestStreak}</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Chuỗi tốt nhất</div>
+          <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+            <CardContent className="p-5 text-center">
+              <Trophy className="w-8 h-8 text-violet-400 mx-auto mb-3" />
+              <div className="text-2xl font-bold text-slate-100">{stats.bestStreak}</div>
+              <div className="text-sm text-slate-400">Chuỗi tốt nhất</div>
             </CardContent>
           </Card>
         </div>
 
-        {/* Topic Selection */}
-        <Card className="mb-6 dark:bg-gray-800 dark:border-gray-700">
-          <CardHeader>
-            <CardTitle className="text-lg dark:text-gray-100">Chọn chủ đề</CardTitle>
+        <Card className="mb-8 bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+          <CardHeader className="pb-4">
+            <CardTitle className="text-lg text-slate-100">Chọn chủ đề</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="flex flex-wrap gap-2">
-              {topics.map((topic) => (
+              {availableTopics.map((topic) => (
                 <Button
                   key={topic}
                   variant={selectedTopic === topic ? "default" : "outline"}
                   size="sm"
                   onClick={() => setSelectedTopic(topic)}
-                  className="capitalize"
+                  className={`capitalize transition-all ${
+                    selectedTopic === topic
+                      ? "bg-blue-600 hover:bg-blue-700 text-white border-blue-600"
+                      : "bg-transparent border-slate-700 text-slate-300 hover:bg-slate-800 hover:border-slate-600"
+                  }`}
                 >
-                  {topic === "all" ? "Tất cả" : topic}
+                  {topic === "All Topics" ? "Tất cả" : topic}
                 </Button>
               ))}
             </div>
           </CardContent>
         </Card>
 
-        {/* Question Card */}
         {currentQuestion && (
-          <Card className="mb-6 dark:bg-gray-800 dark:border-gray-700">
-            <CardHeader>
+          <Card className="mb-8 bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+            <CardHeader className="pb-4">
               <div className="flex justify-between items-start mb-4">
-                <Badge variant="secondary" className="mb-2 dark:bg-gray-700 dark:text-gray-300">
-                  {currentQuestion.topic}
-                </Badge>
-                <Badge variant="outline" className="dark:border-gray-600 dark:text-gray-300">
+                <Badge className="bg-slate-800 text-slate-300 border-slate-700">{currentQuestion.topic}</Badge>
+                <Badge variant="outline" className="border-slate-700 text-slate-400">
                   Câu {stats.total + 1}
                 </Badge>
               </div>
-              <CardTitle className="text-xl leading-relaxed dark:text-gray-100">{currentQuestion.question}</CardTitle>
+              <CardTitle className="text-xl leading-relaxed text-slate-100">{currentQuestion.question}</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="space-y-3 mb-6">
+              <div className="space-y-3 mb-8">
                 {currentQuestion.options.map((option, index) => {
-                  const letter = String.fromCharCode(65 + index) // A, B, C, D
+                  const letter = String.fromCharCode(65 + index)
                   const isSelected = selectedAnswer === letter
                   const isCorrect = letter === currentQuestion.correctAnswer
                   const isWrong = showResult && isSelected && !isCorrect
@@ -206,98 +180,101 @@ export default function JavaQuizApp() {
                       key={index}
                       onClick={() => handleAnswerSelect(letter)}
                       disabled={showResult}
-                      className={`w-full p-4 text-left rounded-lg border-2 transition-all duration-200 ${
+                      className={`w-full p-4 text-left rounded-xl border-2 transition-all duration-200 ${
                         showResult
                           ? isCorrect
-                            ? "border-green-500 bg-green-50 dark:bg-green-900/20 text-green-800 dark:text-green-300"
+                            ? "border-emerald-500 bg-emerald-500/10 text-emerald-300"
                             : isWrong
-                              ? "border-red-500 bg-red-50 dark:bg-red-900/20 text-red-800 dark:text-red-300"
-                              : "border-gray-200 dark:border-gray-600 bg-gray-50 dark:bg-gray-700/50 dark:text-gray-300"
+                              ? "border-red-500 bg-red-500/10 text-red-300"
+                              : "border-slate-700 bg-slate-800/30 text-slate-400"
                           : isSelected
-                            ? "border-blue-500 bg-blue-50 dark:bg-blue-900/20 text-blue-800 dark:text-blue-300"
-                            : "border-gray-200 dark:border-gray-600 hover:border-gray-300 dark:hover:border-gray-500 hover:bg-gray-50 dark:hover:bg-gray-700/50 dark:text-gray-300"
+                            ? "border-blue-500 bg-blue-500/10 text-blue-300"
+                            : "border-slate-700 hover:border-slate-600 hover:bg-slate-800/50 text-slate-300"
                       }`}
                     >
-                      <div className="flex items-start gap-3">
+                      <div className="flex items-start gap-4">
                         <span
-                          className={`flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-sm font-bold ${
+                          className={`flex-shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-sm font-bold ${
                             showResult
                               ? isCorrect
-                                ? "bg-green-500 text-white"
+                                ? "bg-emerald-500 text-white"
                                 : isWrong
                                   ? "bg-red-500 text-white"
-                                  : "bg-gray-300 dark:bg-gray-600 text-gray-600 dark:text-gray-300"
+                                  : "bg-slate-700 text-slate-400"
                               : isSelected
                                 ? "bg-blue-500 text-white"
-                                : "bg-gray-300 dark:bg-gray-600 text-gray-600 dark:text-gray-300"
+                                : "bg-slate-700 text-slate-400"
                           }`}
                         >
                           {letter}
                         </span>
-                        <span className="flex-1">{option}</span>
-                        {showResult && isCorrect && (
-                          <CheckCircle className="w-5 h-5 text-green-600 dark:text-green-400 flex-shrink-0" />
-                        )}
-                        {showResult && isWrong && (
-                          <XCircle className="w-5 h-5 text-red-600 dark:text-red-400 flex-shrink-0" />
-                        )}
+                        <span className="flex-1 leading-relaxed">{option}</span>
+                        {showResult && isCorrect && <CheckCircle className="w-5 h-5 text-emerald-400 flex-shrink-0" />}
+                        {showResult && isWrong && <XCircle className="w-5 h-5 text-red-400 flex-shrink-0" />}
                       </div>
                     </button>
                   )
                 })}
               </div>
 
-              {/* Result and Explanation */}
               {showResult && (
-                <div className="border-t dark:border-gray-600 pt-6">
+                <div className="border-t border-slate-700 pt-6">
                   <div
-                    className={`p-4 rounded-lg mb-4 ${
+                    className={`p-5 rounded-xl mb-6 border ${
                       selectedAnswer === currentQuestion.correctAnswer
-                        ? "bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800"
-                        : "bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800"
+                        ? "bg-emerald-500/10 border-emerald-500/30"
+                        : "bg-red-500/10 border-red-500/30"
                     }`}
                   >
-                    <div className="flex items-center gap-2 mb-2">
+                    <div className="flex items-center gap-3 mb-3">
                       {selectedAnswer === currentQuestion.correctAnswer ? (
-                        <CheckCircle className="w-5 h-5 text-green-600 dark:text-green-400" />
+                        <CheckCircle className="w-6 h-6 text-emerald-400" />
                       ) : (
-                        <XCircle className="w-5 h-5 text-red-600 dark:text-red-400" />
+                        <XCircle className="w-6 h-6 text-red-400" />
                       )}
                       <span
-                        className={`font-semibold ${
-                          selectedAnswer === currentQuestion.correctAnswer
-                            ? "text-green-800 dark:text-green-300"
-                            : "text-red-800 dark:text-red-300"
+                        className={`font-semibold text-lg ${
+                          selectedAnswer === currentQuestion.correctAnswer ? "text-emerald-300" : "text-red-300"
                         }`}
                       >
                         {selectedAnswer === currentQuestion.correctAnswer ? "Chính xác!" : "Không chính xác!"}
                       </span>
                     </div>
-                    <p className="text-sm text-gray-700 dark:text-gray-300 mb-2">
-                      <strong>Đáp án đúng:</strong> {currentQuestion.correctAnswer}
+                    <p className="text-slate-300 mb-3 leading-relaxed">
+                      <strong className="text-slate-200">Đáp án đúng:</strong> {currentQuestion.correctAnswer}
                     </p>
-                    <p className="text-sm text-gray-700 dark:text-gray-300">
-                      <strong>Giải thích:</strong> {currentQuestion.explanation}
+                    <p className="text-slate-300 mb-3 leading-relaxed">
+                      <strong className="text-slate-200">Giải thích:</strong> {currentQuestion.explanation}
                     </p>
-                    <p className="text-xs text-gray-500 dark:text-gray-400 mt-2">
+                    <p className="text-slate-400 text-sm">
                       <strong>Nguồn:</strong> {currentQuestion.source}
                     </p>
                   </div>
                 </div>
               )}
 
-              {/* Action Buttons */}
-              <div className="flex gap-3 justify-center">
+              <div className="flex gap-4 justify-center">
                 {!showResult ? (
-                  <Button onClick={submitAnswer} disabled={!selectedAnswer} className="px-8">
+                  <Button
+                    onClick={submitAnswer}
+                    disabled={!selectedAnswer}
+                    className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-xl transition-all"
+                  >
                     Xác nhận đáp án
                   </Button>
                 ) : (
                   <>
-                    <Button onClick={startNewQuestion} className="px-6">
+                    <Button
+                      onClick={startNewQuestion}
+                      className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-xl transition-all"
+                    >
                       Câu tiếp theo
                     </Button>
-                    <Button variant="outline" onClick={resetQuiz} className="px-6 bg-transparent">
+                    <Button
+                      variant="outline"
+                      onClick={resetQuiz}
+                      className="px-6 py-3 bg-transparent border-slate-600 text-slate-300 hover:bg-slate-800 hover:border-slate-500 rounded-xl transition-all"
+                    >
                       <RotateCcw className="w-4 h-4 mr-2" />
                       Làm lại
                     </Button>
@@ -308,17 +285,16 @@ export default function JavaQuizApp() {
           </Card>
         )}
 
-        {/* Progress */}
         {stats.total > 0 && (
-          <Card className="dark:bg-gray-800 dark:border-gray-700">
-            <CardContent className="p-4">
-              <div className="flex justify-between items-center mb-2">
-                <span className="text-sm font-medium dark:text-gray-200">Tiến độ học tập</span>
-                <span className="text-sm text-gray-600 dark:text-gray-400">
+          <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm">
+            <CardContent className="p-5">
+              <div className="flex justify-between items-center mb-3">
+                <span className="text-sm font-medium text-slate-200">Tiến độ học tập</span>
+                <span className="text-sm text-slate-400">
                   {stats.correct}/{stats.total} câu đúng
                 </span>
               </div>
-              <Progress value={accuracy} className="h-2" />
+              <Progress value={accuracy} className="h-3 bg-slate-800" />
             </CardContent>
           </Card>
         )}

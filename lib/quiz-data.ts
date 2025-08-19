@@ -37,7 +37,7 @@ export const quizData = [
       "Fields and parameters.",
     ],
     correctAnswer: "B",
-    explanation: "Attributes (data): Properties that describe the object (e.g., color, weight); Methods (behavior): Actions that the object can perform (e.g., drive(), brake())",
+    explanation: "Attributes (data): Properties that describe the object (e.g., color, weight); Methods (behavior): Actions that the object can perform (e.g., drive(), brake()).",
     source: "Page 3 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -51,7 +51,7 @@ export const quizData = [
       "Attributes: size, shape; Methods: move, turn.",
     ],
     correctAnswer: "B",
-    explanation: "Example: Acar is an object with: Attributes: weight, color; Methods: drive, brake",
+    explanation: "Example: A car is an object with: Attributes: weight, color; Methods: drive, brake.",
     source: "Page 3 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -65,7 +65,7 @@ export const quizData = [
       "A variable that holds object references.",
     ],
     correctAnswer: "B",
-    explanation: "Aclass is a blueprint for creating objects that defines the structure and behavior of objects",
+    explanation: "A class is a blueprint for creating objects that defines the structure and behavior of objects.",
     source: "Page 4 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -79,7 +79,7 @@ export const quizData = [
       "A container for static methods only.",
     ],
     correctAnswer: "B",
-    explanation: "Serves as a template from which objects are created (instantiated)",
+    explanation: "Serves as a template from which objects are created (instantiated).",
     source: "Page 4 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -107,7 +107,7 @@ export const quizData = [
       "A variable declaration.",
     ],
     correctAnswer: "B",
-    explanation: "Aclass is a blueprint for creating objects",
+    explanation: "A class is a blueprint for creating objects.",
     source: "Page 5 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -121,7 +121,7 @@ export const quizData = [
       "Constructors and destructors.",
     ],
     correctAnswer: "B",
-    explanation: "It groups variables (attributes) and methods (behaviors) into a single unit",
+    explanation: "It groups variables (attributes) and methods (behaviors) into a single unit.",
     source: "Page 5 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -135,7 +135,7 @@ export const quizData = [
       "new",
     ],
     correctAnswer: "C",
-    explanation: "Use the keyword class to define a class in Java",
+    explanation: "Use the keyword class to define a class in Java.",
     source: "Page 5 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -149,7 +149,7 @@ export const quizData = [
       "Initializing a constructor.",
     ],
     correctAnswer: "B",
-    explanation: "Example showing class definition",
+    explanation: "Example showing class definition.",
     source: "Page 6 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -163,7 +163,7 @@ export const quizData = [
       "The object instance.",
     ],
     correctAnswer: "B",
-    explanation: "Main is the name of the class",
+    explanation: "Main is the name of the class.",
     source: "Page 6 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -177,7 +177,7 @@ export const quizData = [
       "A constructor parameter.",
     ],
     correctAnswer: "B",
-    explanation: "x is an integer variable (attribute) with the value 5",
+    explanation: "x is an integer variable (attribute) with the value 5.",
     source: "Page 6 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -191,7 +191,7 @@ export const quizData = [
       "Static reference to x.",
     ],
     correctAnswer: "B",
-    explanation: "Each object created from Main will have its own copy of x",
+    explanation: "Each object created from Main will have its own copy of x.",
     source: "Page 6 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -205,7 +205,7 @@ export const quizData = [
       "A global function.",
     ],
     correctAnswer: "B",
-    explanation: "In Java, an object is created from a class using the new keyword",
+    explanation: "In Java, an object is created from a class using the new keyword.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -219,7 +219,7 @@ export const quizData = [
       "A parameter list.",
     ],
     correctAnswer: "B",
-    explanation: "An object is an instance of a class —it has its own copy of the class's variables and methods",
+    explanation: "An object is an instance of a class — it has its own copy of the class's variables and methods.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -233,7 +233,7 @@ export const quizData = [
       "objectName = ClassName.new();",
     ],
     correctAnswer: "B",
-    explanation: "Syntax: ClassName objectName = new ClassName();",
+    explanation: "Syntax: ClassName objectName = new ClassName();.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -247,7 +247,7 @@ export const quizData = [
       "Static methods.",
     ],
     correctAnswer: "B",
-    explanation: "Example showing object creation and attribute access",
+    explanation: "Example showing object creation and attribute access.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -261,7 +261,7 @@ export const quizData = [
       "Modifies the class.",
     ],
     correctAnswer: "B",
-    explanation: "Main myObj = new Main(); creates a new object named myObj",
+    explanation: "Main myObj = new Main(); creates a new object named myObj.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -275,7 +275,7 @@ export const quizData = [
       "Changes the value.",
     ],
     correctAnswer: "B",
-    explanation: "myObj.x accesses the x attribute of the object",
+    explanation: "myObj.x accesses the x attribute of the object.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -289,7 +289,7 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "C",
-    explanation: "Output: 5",
+    explanation: "Output: 5.",
     source: "Page 7 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -303,7 +303,7 @@ export const quizData = [
       "Define global functions.",
     ],
     correctAnswer: "B",
-    explanation: "You can create multiple independent objects from the same class",
+    explanation: "You can create multiple independent objects from the same class.",
     source: "Page 8 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -317,7 +317,7 @@ export const quizData = [
       "Static copies only.",
     ],
     correctAnswer: "B",
-    explanation: "Each object has its own copy of fields and methods",
+    explanation: "Each object has its own copy of fields and methods.",
     source: "Page 8 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -331,7 +331,7 @@ export const quizData = [
       "null and null",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(myObj1.x); // Output: 5; System.out.println(myObj2.x); // Output: 5",
+    explanation: "System.out.println(myObj1.x); // Output: 5; System.out.println(myObj2.x); // Output: 5.",
     source: "Page 8 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -345,7 +345,7 @@ export const quizData = [
       "Classes.",
     ],
     correctAnswer: "B",
-    explanation: "myObj1 and myObj2 are separate objects",
+    explanation: "myObj1 and myObj2 are separate objects.",
     source: "Page 8 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -359,7 +359,7 @@ export const quizData = [
       "Static variable x.",
     ],
     correctAnswer: "B",
-    explanation: "Each object contains its own copy of variable x",
+    explanation: "Each object contains its own copy of variable x.",
     source: "Page 8 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -373,7 +373,7 @@ export const quizData = [
       "Shares the change.",
     ],
     correctAnswer: "B",
-    explanation: "Changing one object's state does not affect the other",
+    explanation: "Changing one object's state does not affect the other.",
     source: "Page 8 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -387,7 +387,7 @@ export const quizData = [
       "Global objects only.",
     ],
     correctAnswer: "A",
-    explanation: "Java allows creating an object in one class and accessing it from another class",
+    explanation: "Java allows creating an object in one class and accessing it from another class.",
     source: "Page 9 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -401,7 +401,7 @@ export const quizData = [
       "Share global functions.",
     ],
     correctAnswer: "B",
-    explanation: "This approach helps organize code: One class holds attributes and methods; The other class contains the main() method for execution",
+    explanation: "This approach helps organize code: One class holds attributes and methods; The other class contains the main() method for execution.",
     source: "Page 9 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -415,7 +415,7 @@ export const quizData = [
       "Only public files.",
     ],
     correctAnswer: "B",
-    explanation: "Main.java —defines the class and its data; Second.java —contains the main() method and uses the Main class",
+    explanation: "Main.java — defines the class and its data; Second.java — contains the main() method and uses the Main class.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -429,7 +429,7 @@ export const quizData = [
       "Accesses the object.",
     ],
     correctAnswer: "B",
-    explanation: "Main.java example showing class definition",
+    explanation: "Main.java example showing class definition.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -443,7 +443,7 @@ export const quizData = [
       "Modifies x.",
     ],
     correctAnswer: "B",
-    explanation: "Second.java example showing main() method usage",
+    explanation: "Second.java example showing main() method usage.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -457,7 +457,7 @@ export const quizData = [
       "javac all.java; java all",
     ],
     correctAnswer: "B",
-    explanation: "javac Main.java; javac Second.java; java Second",
+    explanation: "javac Main.java; javac Second.java; java Second.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -471,7 +471,7 @@ export const quizData = [
       "null",
     ],
     correctAnswer: "B",
-    explanation: "Output: 5",
+    explanation: "Output: 5.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -485,7 +485,7 @@ export const quizData = [
       "In separate projects.",
     ],
     correctAnswer: "B",
-    explanation: "Both .java files must be in the same directory",
+    explanation: "Both .java files must be in the same directory.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -499,7 +499,7 @@ export const quizData = [
       "The attribute name.",
     ],
     correctAnswer: "B",
-    explanation: "The file name must match the class name if the class is declared public",
+    explanation: "The file name must match the class name if the class is declared public.",
     source: "Page 10 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -597,7 +597,7 @@ export const quizData = [
       "Constructor.",
     ],
     correctAnswer: "B",
-    explanation: "Example showing class attributes",
+    explanation: "Example showing class attributes.",
     source: "Page 11 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -667,7 +667,7 @@ export const quizData = [
       "null",
     ],
     correctAnswer: "C",
-    explanation: "System.out.println(myObj.x); // Output: 40",
+    explanation: "System.out.println(myObj.x); // Output: 40.",
     source: "Page 12 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -765,7 +765,7 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(myObj.x); // Output: 25",
+    explanation: "System.out.println(myObj.x); // Output: 25.",
     source: "Page 13 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -793,7 +793,7 @@ export const quizData = [
       "It remains 10.",
     ],
     correctAnswer: "B",
-    explanation: "It is overridden with myObj.x = 25;",
+    explanation: "It is overridden with myObj.x = 25;.",
     source: "Page 13 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -849,13 +849,13 @@ export const quizData = [
       "Assigned in methods only.",
     ],
     correctAnswer: "B",
-    explanation: "Afinal variable must be assigned once, and cannot be modified later.",
+    explanation: "A final variable must be assigned once, and cannot be modified later.",
     source: "Page 14 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
     id: 62,
-    question: "In the example code below, what happens when trying to assign myObj.x = 25;? public class Main { final int x = 10; public static void main(String[] args) { Main myObj = new Main(); myObj.x = 25; // What happens her e? System.out.println(myObj.x); } }",
+    question: "In the example code below, what happens when trying to assign myObj.x = 25;? public class Main { final int x = 10; public static void main(String[] args) { Main myObj = new Main(); myObj.x = 25; // What happens here? System.out.println(myObj.x); } }",
     options: [
       "It succeeds.",
       "Error: cannot assign a value to a final variable.",
@@ -863,7 +863,7 @@ export const quizData = [
       "Prints 10 and changes.",
     ],
     correctAnswer: "B",
-    explanation: "myObj.x = 25; // Error: cannot assign a value to a final variable",
+    explanation: "myObj.x = 25; // Error: cannot assign a value to a final variable.",
     source: "Page 14 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -975,7 +975,7 @@ export const quizData = [
       "25 and 5",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(myObj1.x); // Outputs 5; System.out.println(myObj2.x); // Outputs 25",
+    explanation: "System.out.println(myObj1.x); // Outputs 5; System.out.println(myObj2.x); // Outputs 25.",
     source: "Page 15 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1031,7 +1031,7 @@ export const quizData = [
       "Scripting.",
     ],
     correctAnswer: "B",
-    explanation: "This behavior is essential in object-oriented programming",
+    explanation: "This behavior is essential in object-oriented programming.",
     source: "Page 15 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1059,7 +1059,7 @@ export const quizData = [
       "Only string attributes.",
     ],
     correctAnswer: "B",
-    explanation: "AJava class can have multiple attributes of different data types.",
+    explanation: "A Java class can have multiple attributes of different data types.",
     source: "Page 16 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1115,7 +1115,7 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "A",
-    explanation: "Output: Name: John Doe Age: 24",
+    explanation: "Output: Name: John Doe Age: 24.",
     source: "Page 16 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1171,7 +1171,7 @@ export const quizData = [
       "Attributes.",
     ],
     correctAnswer: "B",
-    explanation: "Amethod defines an action or behavior that objects or the class can perform.",
+    explanation: "A method defines an action or behavior that objects or the class can perform.",
     source: "Page 17 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1213,7 +1213,7 @@ export const quizData = [
       "Modifies attribute.",
     ],
     correctAnswer: "B",
-    explanation: "It prints 'Hello World!' when called.",
+    explanation: "It prints \"Hello World!\" when called.",
     source: "Page 17 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1241,7 +1241,7 @@ export const quizData = [
       "Only int.",
     ],
     correctAnswer: "B",
-    explanation: "Amethod must have a return type, e.g., void, int, String.",
+    explanation: "A method must have a return type, e.g., void, int, String.",
     source: "Page 17 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1297,7 +1297,7 @@ export const quizData = [
       "Attribute access.",
     ],
     correctAnswer: "B",
-    explanation: "myMethod(); // Method call",
+    explanation: "myMethod(); // Method call.",
     source: "Page 18 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1325,7 +1325,7 @@ export const quizData = [
       "5",
     ],
     correctAnswer: "B",
-    explanation: "Output: Hello World!",
+    explanation: "Output: Hello World!.",
     source: "Page 18 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1387,7 +1387,7 @@ export const quizData = [
   },
   {
     id: 100,
-    question: "In the example code below, how is myStaticMethod() called? public class Main { // Static method static void myStaticMethod() { System.out.println(\" Static methods can be called without cr eating objects\" ); } // Public method public void myPublicMethod() { System.out.println(\" Public methods must be called by cr eating objects\" ); } public static void main(String[] args) { myStaticMethod(); // ✓ Works without object // myPublicMethod(); // ✗ Error: needs an object Main myObj = new Main(); // Cr eate object myObj.myPublicMethod(); // ✓ Call public method via object } }",
+    question: "In the example code below, what is this demonstrating? public class Main { // Static method static void myStaticMethod() { System.out.println(\" Static methods can be called without creating objects\" ); } // Public method public void myPublicMethod() { System.out.println(\" Public methods must be called by creating objects\" ); } public static void main(String[] args) { myStaticMethod(); // ✓ Works without object // myPublicMethod(); // ✗ Error: needs an object Main myObj = new Main(); // Create object myObj.myPublicMethod(); // ✓ Call public method via object } }",
     options: [
       "With object.",
       "Without object.",
@@ -1395,7 +1395,7 @@ export const quizData = [
       "In constructor.",
     ],
     correctAnswer: "B",
-    explanation: "myStaticMethod(); // ✓ Works without object",
+    explanation: "myStaticMethod(); // ✓ Works without object.",
     source: "Page 20 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
@@ -1409,13 +1409,13 @@ export const quizData = [
       "No call.",
     ],
     correctAnswer: "B",
-    explanation: "myObj.myPublicMethod(); // ✓ Call public method via object",
-    source: "Page 20",
+    explanation: "myObj.myPublicMethod(); // ✓ Call public method via object.",
+    source: "Page 20 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
     id: 102,
-    question: "What does static methods belong to and how are they called?",
+    question: "What do static methods belong to and how are they called?",
     options: [
       "Objects, through instance.",
       "The class and can be called without creating objects.",
@@ -1424,7 +1424,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Static methods belong to the class and can be called without creating objects.",
-    source: "Page 20",
+    source: "Page 20 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1438,7 +1438,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Public methods belong to objects and must be called through an instance of the class.",
-    source: "Page 20",
+    source: "Page 20 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1451,8 +1451,8 @@ export const quizData = [
       "With this.",
     ],
     correctAnswer: "B",
-    explanation: "Static methods are called directly,",
-    source: "Page 20",
+    explanation: "Static methods are called directly.",
+    source: "Page 20 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1465,8 +1465,8 @@ export const quizData = [
       "Final.",
     ],
     correctAnswer: "B",
-    explanation: "while public methods require object creation first.",
-    source: "Page 20",
+    explanation: "While public methods require object creation first.",
+    source: "Page 20 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1479,8 +1479,8 @@ export const quizData = [
       "Parameter only.",
     ],
     correctAnswer: "B",
-    explanation: "static ClassName.methodName() ❌ No",
-    source: "Page 21",
+    explanation: "static ClassName.methodName() No.",
+    source: "Page 21 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1493,8 +1493,8 @@ export const quizData = [
       "No object.",
     ],
     correctAnswer: "B",
-    explanation: "public objectName.methodName() ✅ Yes",
-    source: "Page 21",
+    explanation: "public objectName.methodName() Yes.",
+    source: "Page 21 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1508,7 +1508,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "public controls visibility, while static controls how a method is accessed.",
-    source: "Page 21",
+    source: "Page 21 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1522,7 +1522,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "You can combine both: public static void.",
-    source: "Page 21",
+    source: "Page 21 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1536,7 +1536,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Java is a pure object-oriented language.",
-    source: "Page 22",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1550,7 +1550,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Therefore, all methods must be defined inside a class.",
-    source: "Page 22",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1564,7 +1564,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Global functions (functions outside of any class) are not allowed in Java.",
-    source: "Page 22",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1577,8 +1577,8 @@ export const quizData = [
       "Not mentioned.",
     ],
     correctAnswer: "B",
-    explanation: "Global Function ✅ Allowed (e.g. int add())",
-    source: "Page 22",
+    explanation: "Global Function Allowed (e.g. int add()).",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1591,8 +1591,8 @@ export const quizData = [
       "In classes only.",
     ],
     correctAnswer: "B",
-    explanation: "❌ Not Allowed",
-    source: "Page 22",
+    explanation: "Not Allowed.",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1605,8 +1605,8 @@ export const quizData = [
       "Not allowed.",
     ],
     correctAnswer: "B",
-    explanation: "Class Method ✅ Allowed ✅ Required",
-    source: "Page 22",
+    explanation: "Class Method Allowed Required.",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1619,8 +1619,8 @@ export const quizData = [
       "No structure.",
     ],
     correctAnswer: "B",
-    explanation: "Code Structure Function-based or class-based",
-    source: "Page 22",
+    explanation: "Code Structure Function-based or class-based.",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1633,8 +1633,8 @@ export const quizData = [
       "Mixed.",
     ],
     correctAnswer: "B",
-    explanation: "Class-based only",
-    source: "Page 22",
+    explanation: "Class-based only.",
+    source: "Page 22 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1647,8 +1647,8 @@ export const quizData = [
       "No return.",
     ],
     correctAnswer: "B",
-    explanation: "// ❌ This will cause a compilation error int add(int a, int b) { return a + b; }",
-    source: "Page 23",
+    explanation: "// ❌ This will cause a compilation error int add(int a, int b) { return a + b; }.",
+    source: "Page 23 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1661,8 +1661,8 @@ export const quizData = [
       "Global add.",
     ],
     correctAnswer: "B",
-    explanation: "Call with: MathUtils.add(2, 3);",
-    source: "Page 23",
+    explanation: "Call with: MathUtils.add(2, 3);.",
+    source: "Page 23 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1675,8 +1675,8 @@ export const quizData = [
       "Functions outside.",
     ],
     correctAnswer: "B",
-    explanation: "✅ In Java, everything lives inside a class —there are no standalone functions.",
-    source: "Page 23",
+    explanation: "In Java, everything lives inside a class — there are no standalone functions.",
+    source: "Page 23 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1690,7 +1690,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "To call non-static methods, you must create an object of the class.",
-    source: "Page 24",
+    source: "Page 24 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1704,7 +1704,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Use the dot (.) operator to access methods on the object.",
-    source: "Page 24",
+    source: "Page 24 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1718,7 +1718,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "myCar.fullThrottle() and myCar.speed(200) call instance methods.",
-    source: "Page 24",
+    source: "Page 24 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1732,7 +1732,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Each method runs actions defined in the class.",
-    source: "Page 24",
+    source: "Page 24 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1746,7 +1746,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "These methods are public and non-static, so they require an object to be called.",
-    source: "Page 24",
+    source: "Page 24 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1759,8 +1759,8 @@ export const quizData = [
       "Constructors.",
     ],
     correctAnswer: "B",
-    explanation: "Astatic field belongs to the class, not to instances (objects).",
-    source: "Page 25",
+    explanation: "A static field belongs to the class, not to instances (objects).",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1774,7 +1774,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "All objects share the same copy of the static field.",
-    source: "Page 25",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1787,8 +1787,8 @@ export const quizData = [
       "Constructor.",
     ],
     correctAnswer: "B",
-    explanation: "static String university = 'UIT';",
-    source: "Page 25",
+    explanation: "static String university = \"UIT\";.",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1801,8 +1801,8 @@ export const quizData = [
       "Error.",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(s1.university); // UIT System.out.println(s2.university); // UIT",
-    source: "Page 25",
+    explanation: "System.out.println(s1.university); // UIT System.out.println(s2.university); // UIT.",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1815,8 +1815,8 @@ export const quizData = [
       "null.",
     ],
     correctAnswer: "B",
-    explanation: "s2.university = 'HCMUT'; System.out.println(s1.university); // HCMUT",
-    source: "Page 25",
+    explanation: "s2.university = \"HCMUT\"; System.out.println(s1.university); // HCMUT.",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1829,8 +1829,8 @@ export const quizData = [
       "Affects class only.",
     ],
     correctAnswer: "B",
-    explanation: "✅ Changing static fields through one object affects all objects.",
-    source: "Page 25",
+    explanation: "Changing static fields through one object affects all objects.",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1844,7 +1844,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "For values shared by all instances: e.g., university name, tax rate, version number.",
-    source: "Page 25",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1858,7 +1858,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "For counters (e.g., auto-increment IDs).",
-    source: "Page 25",
+    source: "Page 25 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1871,8 +1871,8 @@ export const quizData = [
       "Initialize objects.",
     ],
     correctAnswer: "B",
-    explanation: "Purpose Store shared data",
-    source: "Page 26",
+    explanation: "Purpose Store shared data.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1885,8 +1885,8 @@ export const quizData = [
       "Constructor.",
     ],
     correctAnswer: "B",
-    explanation: "Access ClassName.field",
-    source: "Page 26",
+    explanation: "Access ClassName.field.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1899,8 +1899,8 @@ export const quizData = [
       "Always.",
     ],
     correctAnswer: "B",
-    explanation: "Object Needed? ❌ No",
-    source: "Page 26",
+    explanation: "Object Needed? No.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1913,8 +1913,8 @@ export const quizData = [
       "Behaviors.",
     ],
     correctAnswer: "B",
-    explanation: "Usage Example Global constants, counters",
-    source: "Page 26",
+    explanation: "Usage Example Global constants, counters.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1927,8 +1927,8 @@ export const quizData = [
       "Objects.",
     ],
     correctAnswer: "B",
-    explanation: "Purpose Perform shared behavior",
-    source: "Page 26",
+    explanation: "Purpose Perform shared behavior.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1941,8 +1941,8 @@ export const quizData = [
       "With new.",
     ],
     correctAnswer: "B",
-    explanation: "Access ClassName.method()",
-    source: "Page 26",
+    explanation: "Access ClassName.method().",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1955,8 +1955,8 @@ export const quizData = [
       "For public.",
     ],
     correctAnswer: "B",
-    explanation: "Object Needed? ❌ No",
-    source: "Page 26",
+    explanation: "Object Needed? No.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1969,8 +1969,8 @@ export const quizData = [
       "Constructors.",
     ],
     correctAnswer: "B",
-    explanation: "Usage Example Utility logic, tools",
-    source: "Page 26",
+    explanation: "Usage Example Utility logic, tools.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1984,7 +1984,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Belongs to the class, not instance.",
-    source: "Page 26",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -1997,8 +1997,8 @@ export const quizData = [
       "Constructor.",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(Example.count);",
-    source: "Page 26",
+    explanation: "System.out.println(Example.count);.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2012,7 +2012,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Belongs to the class.",
-    source: "Page 26",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2026,7 +2026,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Can be called without creating objects.",
-    source: "Page 26",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2039,8 +2039,8 @@ export const quizData = [
       "5",
     ],
     correctAnswer: "B",
-    explanation: "MathUtils.square(5); // 25",
-    source: "Page 26",
+    explanation: "MathUtils.square(5); // 25.",
+    source: "Page 26 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2054,7 +2054,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Java encourages separating code into multiple classes for better organization.",
-    source: "Page 27",
+    source: "Page 27 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2068,7 +2068,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "One class defines methods and attributes.",
-    source: "Page 27",
+    source: "Page 27 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2082,7 +2082,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Another class can contain the main() method and create objects from the first class.",
-    source: "Page 27",
+    source: "Page 27 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2096,7 +2096,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Each class is saved in a separate file.",
-    source: "Page 27",
+    source: "Page 27 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2110,7 +2110,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "The file name must match the public class name.",
-    source: "Page 27",
+    source: "Page 27 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2123,8 +2123,8 @@ export const quizData = [
       "Global.",
     ],
     correctAnswer: "B",
-    explanation: "Main.java → defines methods Second.java → contains main() and uses Main",
-    source: "Page 27",
+    explanation: "Main.java → defines methods Second.java → contains main() and uses Main.",
+    source: "Page 27 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2138,7 +2138,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Main defines the car's behaviors.",
-    source: "Page 28",
+    source: "Page 28 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2152,7 +2152,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Second creates the Main object and calls its methods.",
-    source: "Page 28",
+    source: "Page 28 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2166,7 +2166,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "This separation allows better code reuse across multiple programs.",
-    source: "Page 28",
+    source: "Page 28 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2179,8 +2179,8 @@ export const quizData = [
       "Objects.",
     ],
     correctAnswer: "B",
-    explanation: "Only one class should contain main() —that class is the entry point of your program.",
-    source: "Page 28",
+    explanation: "Only one class should contain main() — that class is the entry point of your program.",
+    source: "Page 28 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2193,8 +2193,8 @@ export const quizData = [
       "A static field.",
     ],
     correctAnswer: "B",
-    explanation: "Aconstructor is a special method used to initialize objects.",
-    source: "Page 29",
+    explanation: "A constructor is a special method used to initialize objects.",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2208,7 +2208,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "It is automatically called when an object is created.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2222,7 +2222,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Used to set initial values for attributes.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2235,8 +2235,8 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(myObj.x); // Outputs 5",
-    source: "Page 29",
+    explanation: "System.out.println(myObj.x); // Outputs 5.",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2250,7 +2250,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "The constructor Main() runs when new Main() is called.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2264,7 +2264,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "It sets x = 5, so myObj.x will print 5.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2278,7 +2278,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Constructor name must match the class name.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2292,7 +2292,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "It does not have a return type (not even void).",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2306,7 +2306,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "If you don't define one, Java provides a default constructor.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2320,7 +2320,7 @@ export const quizData = [
     ],
     correctAnswer: "A",
     explanation: "The default constructor does not set initial values.",
-    source: "Page 29",
+    source: "Page 29 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2334,21 +2334,21 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Constructors can take parameters to initialize object attributes with custom values.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
     id: 168,
     question: "When is it useful?",
     options: [
-      "For same initial states",
+      "For same initial initial states",
       "When you want different objects to have different initial states",
       "For no states",
       "For static",
     ],
     correctAnswer: "B",
     explanation: "Useful when you want different objects to have different initial states.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2361,8 +2361,8 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(myObj.x); // Outputs 5",
-    source: "Page 30",
+    explanation: "System.out.println(myObj.x); // Outputs 5.",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2376,7 +2376,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "The constructor takes an int y as a parameter.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2390,7 +2390,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Inside the constructor, x = y.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2404,7 +2404,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "When calling new Main(5), the value 5 is passed to the constructor → x = 5.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2418,7 +2418,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "You can define multiple constructors (constructor overloading) with different parameter types or numbers.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2432,7 +2432,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "This allows flexibility in how objects are created.",
-    source: "Page 30",
+    source: "Page 30 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2446,7 +2446,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Java allows a class to have multiple constructors with different parameters.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2460,7 +2460,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "This is called constructor overloading.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2474,7 +2474,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "It provides flexibility when creating objects with different initialization options.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2487,8 +2487,8 @@ export const quizData = [
       "10 and 10",
     ],
     correctAnswer: "A",
-    explanation: "System.out.println(a.x); // 0 System.out.println(b.x); // 10",
-    source: "Page 31",
+    explanation: "System.out.println(a.x); // 0 System.out.println(b.x); // 10.",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2502,7 +2502,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Two constructors: one with no arguments, one with int.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2516,7 +2516,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Java picks the matching constructor when creating the object.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2530,7 +2530,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Overloaded constructors must have different signatures.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2544,7 +2544,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Allows flexible object creation.",
-    source: "Page 31",
+    source: "Page 31 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2558,7 +2558,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "The this keyword refers to the current object.",
-    source: "Page 32",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2572,7 +2572,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Commonly used in constructors to distinguish between instance variables and parameters when they have the same name.",
-    source: "Page 32",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2585,8 +2585,8 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(obj.x); // Outputs 7",
-    source: "Page 32",
+    explanation: "System.out.println(obj.x); // Outputs 7.",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2600,7 +2600,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "this.x refers to the class attribute.",
-    source: "Page 32",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2614,7 +2614,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "x (on the right side) is the constructor parameter.",
-    source: "Page 32",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2627,8 +2627,8 @@ export const quizData = [
       "Prints null",
     ],
     correctAnswer: "B",
-    explanation: "Without this, Java would assign the parameter to itself —and the attribute remains uninitialized.",
-    source: "Page 32",
+    explanation: "Without this, Java would assign the parameter to itself — and the attribute remains uninitialized.",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2642,7 +2642,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Using this is optional unless names conflict, but it is a good habit to improve clarity.",
-    source: "Page 32",
+    source: "Page 32 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2656,7 +2656,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Constructor chaining means one constructor calls another in the same class using this(...).",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2670,7 +2670,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Helps reuse initialization code and avoid duplication.",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2683,8 +2683,8 @@ export const quizData = [
       "Error",
     ],
     correctAnswer: "B",
-    explanation: "System.out.println(obj.x + \" \" + obj.y); // 5 10",
-    source: "Page 33",
+    explanation: "System.out.println(obj.x + \" \" + obj.y); // 5 10.",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2698,7 +2698,7 @@ export const quizData = [
     ],
     correctAnswer: "A",
     explanation: "Main() calls Main(int x) using this(5).",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2712,7 +2712,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Then it sets y = 10.",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2726,7 +2726,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Constructor chaining must be the first line inside the constructor.",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2740,7 +2740,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Use this(...) only for calling another constructor in the same class.",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2754,7 +2754,7 @@ export const quizData = [
     ],
     correctAnswer: "A",
     explanation: "Do not confuse with this. used to refer to instance variables.",
-    source: "Page 33",
+    source: "Page 33 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2768,7 +2768,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "If no constructor is defined, Java automatically provides a no-argument constructor.",
-    source: "Page 34",
+    source: "Page 34 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2782,7 +2782,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "This is called the default constructor.",
-    source: "Page 34",
+    source: "Page 34 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2795,8 +2795,8 @@ export const quizData = [
       "Only with parameters",
     ],
     correctAnswer: "B",
-    explanation: "Main obj = new Main(); // ✅ works fine",
-    source: "Page 34",
+    explanation: "Main obj = new Main(); // ✅ works fine.",
+    source: "Page 34 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2809,8 +2809,8 @@ export const quizData = [
       "static Main()",
     ],
     correctAnswer: "B",
-    explanation: "The compiler adds: public Main() {}",
-    source: "Page 34",
+    explanation: "The compiler adds: public Main() {}.",
+    source: "Page 34 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2823,8 +2823,8 @@ export const quizData = [
       "No effect",
     ],
     correctAnswer: "B",
-    explanation: "But if you define any constructor, Java does not add a default one",
-    source: "Page 34",
+    explanation: "But if you define any constructor, Java does not add a default one.",
+    source: "Page 34 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2838,7 +2838,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "If you define any constructor (with or without parameters), → Java will NOT automatically create a default constructor.",
-    source: "Page 35",
+    source: "Page 35 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2851,8 +2851,8 @@ export const quizData = [
       "Prints 0",
     ],
     correctAnswer: "B",
-    explanation: "Main obj = new Main(); // ❌ Compile-time error",
-    source: "Page 35",
+    explanation: "Main obj = new Main(); // ❌ Compile-time error.",
+    source: "Page 35 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2866,7 +2866,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Since a constructor already exists (Main(int y)), Java assumes you control all initialization, → It does not generate the no-arg constructor.",
-    source: "Page 35",
+    source: "Page 35 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2879,8 +2879,8 @@ export const quizData = [
       "Use this",
     ],
     correctAnswer: "B",
-    explanation: "To use both ways, define both constructors: public Main() {} public Main(int y) { ... }",
-    source: "Page 35",
+    explanation: "To use both ways, define both constructors: public Main() {} public Main(int y) { ... }.",
+    source: "Page 35 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2894,7 +2894,7 @@ export const quizData = [
     ],
     correctAnswer: "A",
     explanation: "But this constructor does not assign initial values to attributes.",
-    source: "Page 36",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2907,8 +2907,8 @@ export const quizData = [
       "null and 0",
     ],
     correctAnswer: "A",
-    explanation: "System.out.println(obj.x); // 0 System.out.println(obj.name); // null",
-    source: "Page 36",
+    explanation: "System.out.println(obj.x); // 0 System.out.println(obj.name); // null.",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2921,8 +2921,8 @@ export const quizData = [
       "\"\"",
     ],
     correctAnswer: "B",
-    explanation: "→ int → 0",
-    source: "Page 36",
+    explanation: "→ int → 0.",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2935,8 +2935,8 @@ export const quizData = [
       "false",
     ],
     correctAnswer: "B",
-    explanation: "→ String → null",
-    source: "Page 36",
+    explanation: "→ String → null.",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2950,7 +2950,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "→ boolean → false, etc.",
-    source: "Page 36",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2964,7 +2964,7 @@ export const quizData = [
     ],
     correctAnswer: "A",
     explanation: "No logic to customize or initialize values.",
-    source: "Page 36",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2978,7 +2978,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Use a custom constructor if you need to initialize attributes explicitly.",
-    source: "Page 36",
+    source: "Page 36 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -2992,7 +2992,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Java libraries like Spring, Hibernate, or Jackson require a no-arg constructor to instantiate objects via reflection.",
-    source: "Page 37",
+    source: "Page 37 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3006,7 +3006,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Without it, deserialization or object mapping may fail.",
-    source: "Page 37",
+    source: "Page 37 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3020,7 +3020,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Subclasses implicitly call the superclass's no-arg constructor.",
-    source: "Page 37",
+    source: "Page 37 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3034,7 +3034,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "If the superclass lacks a no-arg constructor, the subclass must explicitly call another constructor using super(...).",
-    source: "Page 37",
+    source: "Page 37 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3047,8 +3047,8 @@ export const quizData = [
       "Use setters first",
     ],
     correctAnswer: "B",
-    explanation: "Easily create objects without passing arguments: User user = new User();",
-    source: "Page 37",
+    explanation: "Easily create objects without passing arguments: User user = new User();.",
+    source: "Page 37 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3061,8 +3061,8 @@ export const quizData = [
       "No setters",
     ],
     correctAnswer: "B",
-    explanation: "Create a basic object and set values later using setters: User u = new User(); u.setName(\"Alice\");",
-    source: "Page 37",
+    explanation: "Create a basic object and set values later using setters: User u = new User(); u.setName(\"Alice\");.",
+    source: "Page 37 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3075,8 +3075,8 @@ export const quizData = [
       "Global methods",
     ],
     correctAnswer: "B",
-    explanation: "Multiple methods in the same class Same name, but different parameter list",
-    source: "Page 38",
+    explanation: "Multiple methods in the same class Same name, but different parameter list.",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3089,8 +3089,8 @@ export const quizData = [
       "No reuse",
     ],
     correctAnswer: "B",
-    explanation: "Allows you to reuse the same method name for similar actions",
-    source: "Page 38",
+    explanation: "Allows you to reuse the same method name for similar actions.",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3103,8 +3103,8 @@ export const quizData = [
       "Same type",
     ],
     correctAnswer: "A",
-    explanation: "c.add(3, 4); // Returns 7 (int) c.add(3.5, 2.1); // Returns 5.6 (double)",
-    source: "Page 38",
+    explanation: "c.add(3, 4); // Returns 7 (int) c.add(3.5, 2.1); // Returns 5.6 (double).",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3117,8 +3117,8 @@ export const quizData = [
       "Visibility",
     ],
     correctAnswer: "B",
-    explanation: "✅ Methods must differ by: Number of parameters Type of parameters Order of parameters",
-    source: "Page 38",
+    explanation: "Methods must differ by: Number of parameters Type of parameters Order of parameters.",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3131,8 +3131,8 @@ export const quizData = [
       "Types",
     ],
     correctAnswer: "B",
-    explanation: "❌ Return type alone is not enough!",
-    source: "Page 38",
+    explanation: "Return type alone is not enough!.",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3145,8 +3145,8 @@ export const quizData = [
       "No benefits",
     ],
     correctAnswer: "B",
-    explanation: "Improves readability",
-    source: "Page 38",
+    explanation: "Improves readability.",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3159,8 +3159,8 @@ export const quizData = [
       "Inheritance",
     ],
     correctAnswer: "B",
-    explanation: "Supports polymorphism (compile-time/static polymorphism)",
-    source: "Page 38",
+    explanation: "Supports polymorphism (compile-time/static polymorphism).",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3173,8 +3173,8 @@ export const quizData = [
       "Attributes",
     ],
     correctAnswer: "B",
-    explanation: "Organizes related operations under a single method name",
-    source: "Page 38",
+    explanation: "Organizes related operations under a single method name.",
+    source: "Page 38 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3187,8 +3187,8 @@ export const quizData = [
       "Always",
     ],
     correctAnswer: "B",
-    explanation: "❌ Overloading by return type only is NOT allowed",
-    source: "Page 39",
+    explanation: "Overloading by return type only is NOT allowed.",
+    source: "Page 39 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3202,7 +3202,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Java uses method signature to distinguish overloaded methods. Method signature = method name + parameter list. Return type is not part of the signature.",
-    source: "Page 39",
+    source: "Page 39 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3216,7 +3216,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "Compile-time error: method is already defined with the same signature.",
-    source: "Page 39",
+    source: "Page 39 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3229,8 +3229,8 @@ export const quizData = [
       "Return only different",
     ],
     correctAnswer: "B",
-    explanation: "int show(int x) // 1 int double show(double x) // 1 double int show(int x, int y) // 2 int ✅ All have different parameter lists",
-    source: "Page 40",
+    explanation: "All have different parameter lists.",
+    source: "Page 40 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3244,7 +3244,7 @@ export const quizData = [
     ],
     correctAnswer: "B",
     explanation: "To overload a method: Change the number, type, or order of parameters. Do not rely on return type to make them different.",
-    source: "Page 40",
+    source: "Page 40 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3257,8 +3257,8 @@ export const quizData = [
       "Overloading",
     ],
     correctAnswer: "B",
-    explanation: "Part 1: Classes, Objects, and Attributes Java Classes and Objects Create a Class in Java Create an Object in Java Multiple Objects Java Class Attributes Modify Attributes in Java Override Default Attribute Values in Java Prevent Overriding with final Multiple Objects and Independent Attributes Multiple Attributes in a Class",
-    source: "Page 41",
+    explanation: "Part 1: Classes, Objects, and Attributes Java Classes and Objects Create a Class in Java Create an Object in Java Multiple Objects Java Class Attributes Modify Attributes in Java Override Default Attribute Values in Java Prevent Overriding with final Multiple Objects and Independent Attributes Multiple Attributes in a Class.",
+    source: "Page 41 - Java Classes and Objects",
     topic: "Classes & Objects",
   },
   {
@@ -3268,12 +3268,12 @@ export const quizData = [
       "Keywords used to define the accessibility of classes, methods, fields, and constructors, and the behavior or constraints of these elements.",
       "Variables that control program flow.",
       "Methods that initialize objects.",
-      "Classes that extend other classes."
+      "Classes that extend other classes.",
     ],
     correctAnswer: "A",
     explanation: "Modifiers in Java are keywords that define the accessibility of classes, methods, fields, and constructors, as well as their behavior or constraints.",
     source: "Page 2",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 235,
@@ -3282,12 +3282,12 @@ export const quizData = [
       "Two categories: Access Modifiers – Control visibility, and Non-Access Modifiers – Define additional behavior, not related to access.",
       "Three categories: Public, Private, and Protected.",
       "One category: Visibility controls.",
-      "Four categories: Static, Final, Abstract, and Synchronized."
+      "Four categories: Static, Final, Abstract, and Synchronized.",
     ],
     correctAnswer: "A",
     explanation: "Java has two categories of modifiers: Access Modifiers, which control visibility, and Non-Access Modifiers, which define additional behavior not related to access.",
     source: "Page 2",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 236,
@@ -3296,12 +3296,12 @@ export const quizData = [
       "Control visibility of classes and members.",
       "Define characteristics or constraints.",
       "Handle exceptions.",
-      "Manage memory allocation."
+      "Manage memory allocation.",
     ],
     correctAnswer: "A",
     explanation: "Access Modifiers in Java are used to control the visibility of classes and their members.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 237,
@@ -3310,12 +3310,12 @@ export const quizData = [
       "Define characteristics or constraints.",
       "Control visibility of classes and members.",
       "Initialize variables.",
-      "Create loops."
+      "Create loops.",
     ],
     correctAnswer: "A",
     explanation: "Non-Access Modifiers define characteristics or constraints of classes, methods, or fields, such as making them static, final, or abstract.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 238,
@@ -3324,12 +3324,12 @@ export const quizData = [
       "public, private, protected, default.",
       "static, final, abstract, synchronized, etc.",
       "class, method, field, constructor.",
-      "int, double, String, boolean."
+      "int, double, String, boolean.",
     ],
     correctAnswer: "A",
     explanation: "Access Modifiers in Java include public, private, protected, and default (no modifier).",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 239,
@@ -3338,12 +3338,12 @@ export const quizData = [
       "static, final, abstract, synchronized, etc.",
       "public, private, protected, default.",
       "void, return, if, else.",
-      "new, this, super, extends."
+      "new, this, super, extends.",
     ],
     correctAnswer: "A",
     explanation: "Non-Access Modifiers in Java include static, final, abstract, synchronized, and others that define behavior or constraints.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 240,
@@ -3352,12 +3352,12 @@ export const quizData = [
       "It defines the visibility of the class Main, allowing any other class to access it.",
       "It makes the class private.",
       "It prevents subclassing.",
-      "It declares the class as abstract."
+      "It declares the class as abstract.",
     ],
     correctAnswer: "A",
     explanation: "The public modifier makes the class Main accessible from any other class.",
     source: "Page 4",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 241,
@@ -3366,12 +3366,12 @@ export const quizData = [
       "A modifier that defines the visibility of the class and method.",
       "A variable type.",
       "A method name.",
-      "A package declaration."
+      "A package declaration.",
     ],
     correctAnswer: "A",
     explanation: "The keyword public is a modifier that defines the visibility of the class and method.",
     source: "Page 4",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 242,
@@ -3380,12 +3380,12 @@ export const quizData = [
       "Where a class member can be accessed from.",
       "The size of variables.",
       "The number of methods in a class.",
-      "The inheritance hierarchy."
+      "The inheritance hierarchy.",
     ],
     correctAnswer: "A",
     explanation: "Access modifiers determine where a class member can be accessed from, controlling visibility.",
     source: "Page 5",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 243,
@@ -3394,12 +3394,12 @@ export const quizData = [
       "Four: public, protected, default (no keyword), private.",
       "Three: public, private, static.",
       "Two: access and non-access.",
-      "Five: public, protected, default, private, final."
+      "Five: public, protected, default, private, final.",
     ],
     correctAnswer: "A",
     explanation: "Java provides four access levels: public, protected, default (no keyword), and private.",
     source: "Page 5",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 244,
@@ -3408,12 +3408,12 @@ export const quizData = [
       "Only two: public and default (no modifier).",
       "All four: public, protected, default, private.",
       "Three: public, private, protected.",
-      "One: public only."
+      "One: public only.",
     ],
     correctAnswer: "A",
     explanation: "Top-level classes in Java can only use public or default (no modifier) access modifiers.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 245,
@@ -3422,12 +3422,12 @@ export const quizData = [
       "The class is accessible from any other class.",
       "The class is accessible only within the same package.",
       "The class cannot be instantiated.",
-      "The class must be subclassed."
+      "The class must be subclassed.",
     ],
     correctAnswer: "A",
     explanation: "The public modifier allows a top-level class to be accessible from any other class.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 246,
@@ -3436,12 +3436,12 @@ export const quizData = [
       "The class is accessible only within the same package.",
       "The class is accessible from any other class.",
       "The class is hidden from all packages.",
-      "The class can only be used in subclasses."
+      "The class can only be used in subclasses.",
     ],
     correctAnswer: "A",
     explanation: "The default access (no modifier) restricts a top-level class to be accessible only within the same package.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 247,
@@ -3450,12 +3450,12 @@ export const quizData = [
       "More about packages.",
       "More about methods.",
       "More about variables.",
-      "More about loops."
+      "More about loops.",
     ],
     correctAnswer: "A",
     explanation: "The course will cover more about packages in relation to access modifiers for classes.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 248,
@@ -3464,12 +3464,12 @@ export const quizData = [
       "Directly in a .java file.",
       "Inside another class or method.",
       "In a package declaration.",
-      "In a method body."
+      "In a method body.",
     ],
     correctAnswer: "A",
     explanation: "A top-level class is defined directly in a .java file.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 249,
@@ -3478,12 +3478,12 @@ export const quizData = [
       "Inside another class or method.",
       "Directly in a .java file.",
       "In an external library.",
-      "In the main method."
+      "In the main method.",
     ],
     correctAnswer: "A",
     explanation: "A nested class is defined inside another class or method.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 250,
@@ -3492,12 +3492,12 @@ export const quizData = [
       "Main classes of programs.",
       "Utility or helper classes.",
       "Data structures.",
-      "Input/output operations."
+      "Input/output operations.",
     ],
     correctAnswer: "A",
     explanation: "Top-level classes are commonly used as the main classes of programs.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 251,
@@ -3506,12 +3506,12 @@ export const quizData = [
       "Utility or helper classes.",
       "Main classes of programs.",
       "Mathematical operations.",
-      "Networking features."
+      "Networking features.",
     ],
     correctAnswer: "A",
     explanation: "Nested classes are commonly used as utility or helper classes.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 252,
@@ -3520,12 +3520,12 @@ export const quizData = [
       "A top-level class.",
       "A nested class.",
       "An abstract class.",
-      "A final class."
+      "A final class.",
     ],
     correctAnswer: "A",
     explanation: "The class Outer is a top-level class, as it is defined directly in a .java file.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 253,
@@ -3534,12 +3534,12 @@ export const quizData = [
       "A nested class.",
       "A top-level class.",
       "A static class.",
-      "A private class."
+      "A private class.",
     ],
     correctAnswer: "A",
     explanation: "The class Inner is a nested class, as it is defined inside another class (Outer).",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 254,
@@ -3548,12 +3548,12 @@ export const quizData = [
       "public and default (no modifier).",
       "private and protected.",
       "final and abstract.",
-      "static and synchronized."
+      "static and synchronized.",
     ],
     correctAnswer: "A",
     explanation: "Top-level classes can only use public or default (no modifier) access modifiers.",
     source: "Page 8",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 255,
@@ -3562,12 +3562,12 @@ export const quizData = [
       "Because private and protected imply visibility inside or relative to another class, and a top-level class is not inside another class.",
       "Because they are reserved for methods.",
       "Because they conflict with packages.",
-      "Because they make classes immutable."
+      "Because they make classes immutable.",
     ],
     correctAnswer: "A",
     explanation: "Private and protected imply visibility inside or relative to another class, which is not applicable to top-level classes that are not inside another class.",
     source: "Page 8",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 256,
@@ -3576,12 +3576,12 @@ export const quizData = [
       "public class MyClass { }",
       "private class HiddenClass { }",
       "protected class SubClass { }",
-      "final class FinalClass { }"
+      "final class FinalClass { }",
     ],
     correctAnswer: "A",
     explanation: "A valid top-level class declaration can use the public modifier, as in 'public class MyClass { }'.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 257,
@@ -3590,12 +3590,12 @@ export const quizData = [
       "class PackageClass { }",
       "public class MyClass { }",
       "private class HiddenClass { }",
-      "protected class SubClass { }"
+      "protected class SubClass { }",
     ],
     correctAnswer: "A",
     explanation: "A valid top-level class with default access is declared without a modifier, as in 'class PackageClass { }'.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 258,
@@ -3604,12 +3604,12 @@ export const quizData = [
       "It results in an ERROR because private is not allowed for top-level classes.",
       "It is valid but hidden.",
       "It requires a package.",
-      "It needs to be nested."
+      "It needs to be nested.",
     ],
     correctAnswer: "A",
     explanation: "The private modifier is not allowed for top-level classes, resulting in a compilation error.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 259,
@@ -3618,12 +3618,12 @@ export const quizData = [
       "It results in an ERROR because protected is not allowed for top-level classes.",
       "It is valid for subclasses only.",
       "It conflicts with public.",
-      "It must be abstract."
+      "It must be abstract.",
     ],
     correctAnswer: "A",
     explanation: "The protected modifier is not allowed for top-level classes, resulting in a compilation error.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 260,
@@ -3632,12 +3632,12 @@ export const quizData = [
       "Accessible from any class.",
       "Accessible only within the declaring class.",
       "Accessible only within the same package.",
-      "Accessible within the same package and by subclasses."
+      "Accessible within the same package and by subclasses.",
     ],
     correctAnswer: "A",
     explanation: "The public modifier makes fields, methods, and constructors accessible from any class.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 261,
@@ -3646,12 +3646,12 @@ export const quizData = [
       "Accessible only within the declaring class.",
       "Accessible from any class.",
       "Accessible only within the same package.",
-      "Accessible within the same package and by subclasses."
+      "Accessible within the same package and by subclasses.",
     ],
     correctAnswer: "A",
     explanation: "The private modifier restricts access to fields, methods, and constructors to within the declaring class.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 262,
@@ -3660,12 +3660,12 @@ export const quizData = [
       "Accessible only within the same package.",
       "Accessible from any class.",
       "Accessible only within the declaring class.",
-      "Accessible within the same package and by subclasses."
+      "Accessible within the same package and by subclasses.",
     ],
     correctAnswer: "A",
     explanation: "The default access (no modifier) restricts access to fields, methods, and constructors to within the same package.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 263,
@@ -3674,12 +3674,12 @@ export const quizData = [
       "Accessible within the same package and by subclasses.",
       "Accessible from any class.",
       "Accessible only within the declaring class.",
-      "Accessible only within the same package."
+      "Accessible only within the same package.",
     ],
     correctAnswer: "A",
     explanation: "The protected modifier allows access to fields, methods, and constructors within the same package and by subclasses.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 264,
@@ -3688,12 +3688,12 @@ export const quizData = [
       "When studying inheritance.",
       "When studying packages.",
       "When studying methods.",
-      "When studying constructors."
+      "When studying constructors.",
     ],
     correctAnswer: "A",
     explanation: "The use of the protected modifier becomes clearer when studying inheritance, as it involves access by subclasses.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 265,
@@ -3702,12 +3702,12 @@ export const quizData = [
       "private – not accessible outside the class.",
       "public – accessible from any class.",
       "protected – accessible in subclasses.",
-      "default – accessible in the package."
+      "default – accessible in the package.",
     ],
     correctAnswer: "A",
     explanation: "The field 'name' is private, meaning it is not accessible outside the class.",
     source: "Page 11",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 266,
@@ -3716,12 +3716,12 @@ export const quizData = [
       "Controlled access to the private field.",
       "Direct access to the field.",
       "Static behavior.",
-      "Abstract methods."
+      "Abstract methods.",
     ],
     correctAnswer: "A",
     explanation: "The setName() and getName() methods provide controlled access to the private field 'name'.",
     source: "Page 11",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 267,
@@ -3730,12 +3730,12 @@ export const quizData = [
       "The class cannot be extended (no subclassing allowed).",
       "The class cannot be instantiated; must be subclassed.",
       "The class is accessible publicly.",
-      "The class belongs to instances."
+      "The class belongs to instances.",
     ],
     correctAnswer: "A",
     explanation: "The final modifier prevents a class from being extended, meaning no subclassing is allowed.",
     source: "Page 12",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 268,
@@ -3744,12 +3744,12 @@ export const quizData = [
       "The class cannot be instantiated; must be subclassed.",
       "The class cannot be extended (no subclassing allowed).",
       "The class is private.",
-      "The class is static."
+      "The class is static.",
     ],
     correctAnswer: "A",
     explanation: "The abstract modifier means a class cannot be instantiated and must be subclassed.",
     source: "Page 12",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 269,
@@ -3758,12 +3758,12 @@ export const quizData = [
       "Cannot be modified (fields) or overridden (methods).",
       "Belongs to the class, not to any instance.",
       "Declares a method without a body; must be overridden in subclass.",
-      "Skipped during serialization."
+      "Skipped during serialization.",
     ],
     correctAnswer: "A",
     explanation: "The final modifier prevents fields from being modified and methods from being overridden.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 270,
@@ -3772,12 +3772,12 @@ export const quizData = [
       "Belongs to the class, not to any instance.",
       "Cannot be modified (fields) or overridden (methods).",
       "Declares a method without a body; must be overridden in subclass.",
-      "Allows only one thread to access the method at a time."
+      "Allows only one thread to access the method at a time.",
     ],
     correctAnswer: "A",
     explanation: "The static modifier indicates that fields and methods belong to the class, not to any instance.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 271,
@@ -3786,12 +3786,12 @@ export const quizData = [
       "Declares a method without a body; must be overridden in subclass.",
       "Belongs to the class, not to any instance.",
       "Cannot be modified (fields) or overridden (methods).",
-      "Always read from main memory, not thread-local cache."
+      "Always read from main memory, not thread-local cache.",
     ],
     correctAnswer: "A",
     explanation: "The abstract modifier declares a method without a body, which must be overridden in a subclass.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 272,
@@ -3800,12 +3800,12 @@ export const quizData = [
       "Skipped during serialization.",
       "Allows only one thread to access the method at a time.",
       "Always read from main memory, not thread-local cache.",
-      "Declares a method without a body."
+      "Declares a method without a body.",
     ],
     correctAnswer: "A",
     explanation: "The transient modifier indicates that a field should be skipped during serialization.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 273,
@@ -3814,12 +3814,12 @@ export const quizData = [
       "Allows only one thread to access the method at a time.",
       "Skipped during serialization.",
       "Belongs to the class, not to any instance.",
-      "Cannot be overridden."
+      "Cannot be overridden.",
     ],
     correctAnswer: "A",
     explanation: "The synchronized modifier ensures that only one thread can access a method at a time.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 274,
@@ -3828,12 +3828,12 @@ export const quizData = [
       "Always read from main memory, not thread-local cache.",
       "Skipped during serialization.",
       "Declares without a body.",
-      "Belongs to the class."
+      "Belongs to the class.",
     ],
     correctAnswer: "A",
     explanation: "The volatile modifier ensures that a field is always read from main memory, not a thread-local cache.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 275,
@@ -3842,12 +3842,12 @@ export const quizData = [
       "To manage visibility and support encapsulation.",
       "To control inheritance only.",
       "To handle concurrency.",
-      "To define method structure."
+      "To define method structure.",
     ],
     correctAnswer: "A",
     explanation: "Access modifiers manage visibility and support encapsulation in Java.",
     source: "Page 14",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 276,
@@ -3856,12 +3856,12 @@ export const quizData = [
       "To control inheritance, concurrency, memory behavior, and method structure.",
       "To manage visibility only.",
       "To support encapsulation only.",
-      "To define classes only."
+      "To define classes only.",
     ],
     correctAnswer: "A",
     explanation: "Non-access modifiers control inheritance, concurrency, memory behavior, and method structure.",
     source: "Page 14",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 277,
@@ -3870,12 +3870,12 @@ export const quizData = [
       "Writing robust, maintainable, and secure code.",
       "Creating loops and conditions.",
       "Managing file input/output.",
-      "Handling exceptions."
+      "Handling exceptions.",
     ],
     correctAnswer: "A",
     explanation: "Mastering Java modifiers helps in writing robust, maintainable, and secure code.",
     source: "Page 14",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 278,
@@ -3884,12 +3884,12 @@ export const quizData = [
       "Wrapping data (fields) and methods into a single unit – the class – and restricting direct access to some components.",
       "Extending one class from another.",
       "Creating multiple instances.",
-      "Defining static methods."
+      "Defining static methods.",
     ],
     correctAnswer: "A",
     explanation: "Encapsulation involves wrapping data and methods into a class and restricting direct access to some components.",
     source: "Page 15",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 279,
@@ -3898,12 +3898,12 @@ export const quizData = [
       "Object-Oriented Programming.",
       "Procedural Programming.",
       "Functional Programming.",
-      "Logical Programming."
+      "Logical Programming.",
     ],
     correctAnswer: "A",
     explanation: "Encapsulation is a fundamental principle of Object-Oriented Programming.",
     source: "Page 15",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 280,
@@ -3912,12 +3912,12 @@ export const quizData = [
       "It should be accessed via methods, not directly.",
       "It should be directly accessible.",
       "It should be static.",
-      "It should be final."
+      "It should be final.",
     ],
     correctAnswer: "A",
     explanation: "Encapsulation requires data to be accessed via methods, not directly, to ensure controlled access.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 281,
@@ -3926,12 +3926,12 @@ export const quizData = [
       "Using access modifiers and getter/setter methods.",
       "Using public fields.",
       "Using static variables.",
-      "Using abstract classes."
+      "Using abstract classes.",
     ],
     correctAnswer: "A",
     explanation: "Encapsulation is achieved using access modifiers and getter/setter methods to control data access.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 282,
@@ -3940,12 +3940,12 @@ export const quizData = [
       "private – hidden.",
       "public – accessible.",
       "protected – for subclasses.",
-      "default – package level."
+      "default – package level.",
     ],
     correctAnswer: "A",
     explanation: "The field 'balance' is private, meaning it is hidden from outside access.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 283,
@@ -3954,12 +3954,12 @@ export const quizData = [
       "If amount > 0, add to balance.",
       "Always add amount regardless.",
       "Subtract if amount < 0.",
-      "Set balance to amount."
+      "Set balance to amount.",
     ],
     correctAnswer: "A",
-    explanation: "The deposit method adds the amount to the balance only if the amount is greater than 0.",
+    explanation: "The deposit method adds the amount to the balance only if the amount is positive.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 284,
@@ -3968,12 +3968,12 @@ export const quizData = [
       "Protects data integrity by preventing unauthorized or invalid access.",
       "Improves maintainability.",
       "Provides controlled access.",
-      "Encourages modular design."
+      "Encourages modular design.",
     ],
     correctAnswer: "A",
     explanation: "The first benefit of encapsulation is protecting data integrity by preventing unauthorized or invalid access.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 285,
@@ -3982,12 +3982,12 @@ export const quizData = [
       "Improves maintainability by changes to internal implementation not affecting external code.",
       "Protects data integrity.",
       "Provides controlled access.",
-      "Encourages modular design."
+      "Encourages modular design.",
     ],
     correctAnswer: "A",
     explanation: "The second benefit of encapsulation is improving maintainability by ensuring internal changes do not affect external code.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 286,
@@ -3996,12 +3996,12 @@ export const quizData = [
       "Provides controlled access by only allowing safe interactions through well-defined methods.",
       "Protects data integrity.",
       "Improves maintainability.",
-      "Encourages modular design."
+      "Encourages modular design.",
     ],
     correctAnswer: "A",
     explanation: "The third benefit of encapsulation is providing controlled access through well-defined methods.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 287,
@@ -4010,12 +4010,12 @@ export const quizData = [
       "Encourages modular design by objects being self-contained, with clear interfaces.",
       "Protects data integrity.",
       "Improves maintainability.",
-      "Provides controlled access."
+      "Provides controlled access.",
     ],
     correctAnswer: "A",
     explanation: "The fourth benefit of encapsulation is encouraging modular design by creating self-contained objects with clear interfaces.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 288,
@@ -4024,12 +4024,12 @@ export const quizData = [
       "It is directly modifiable.",
       "It is private.",
       "It has validation.",
-      "It is read-only."
+      "It is read-only.",
     ],
     correctAnswer: "A",
     explanation: "Without encapsulation, the field 'age' is public and directly modifiable, which can lead to invalid data.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 289,
@@ -4038,40 +4038,40 @@ export const quizData = [
       "Through setAge with validation and getAge.",
       "Directly modifiable.",
       "No access at all.",
-      "Static access."
+      "Static access.",
     ],
     correctAnswer: "A",
     explanation: "Access to 'age' is controlled through the setAge method with validation and the getAge method.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 290,
-    question: "What is a key difference in the first version without encapsulation?\n\nclass Student {\n  public int age; // directly modifiable\n}",
+    question: "What is a key difference in the first version without encapsulation?",
     options: [
       "It exposes the internal data directly.",
       "It allows only safe, validated access.",
       "It uses private fields.",
-      "It has getter and setter."
+      "It has getter and setter.",
     ],
     correctAnswer: "A",
     explanation: "The first version without encapsulation exposes the internal data directly, allowing unrestricted access.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 291,
-    question: "What is a key difference in the second version with encapsulation?\n\nclass Student {\n  private int age;\n  public void setAge(int a) {\n    if (a >= 0) age = a;\n  }\n  public int getAge() {\n    return age;\n  }\n}",
+    question: "What is a key difference in the second version with encapsulation?",
     options: [
       "It allows only safe, validated access.",
       "It exposes the internal data directly.",
       "It uses public fields.",
-      "It has no methods."
+      "It has no methods.",
     ],
     correctAnswer: "A",
     explanation: "The second version with encapsulation allows only safe, validated access to the data.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 292,
@@ -4080,12 +4080,12 @@ export const quizData = [
       "public int age;",
       "private int age;",
       "protected int age;",
-      "static int age;"
+      "static int age;",
     ],
     correctAnswer: "A",
     explanation: "The field 'age' is declared as public, making it directly accessible.",
     source: "Page 19",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 293,
@@ -4094,12 +4094,12 @@ export const quizData = [
       "It is allowed, but it's wrong!",
       "It is not allowed.",
       "It sets age to 0.",
-      "It throws an error."
+      "It throws an error.",
     ],
     correctAnswer: "A",
     explanation: "Assigning a negative age is allowed with a public field, but it is incorrect and can lead to invalid data.",
     source: "Page 19",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 294,
@@ -4108,12 +4108,12 @@ export const quizData = [
       "No rule stops us from assigning a negative age, which is dangerous and leads to bad data.",
       "It is automatically validated.",
       "It requires a setter.",
-      "It is read-only."
+      "It is read-only.",
     ],
     correctAnswer: "A",
     explanation: "Without validation, assigning a negative age is dangerous and leads to bad data.",
     source: "Page 19",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 295,
@@ -4122,12 +4122,12 @@ export const quizData = [
       "Make it private: private int age; // hidden from outside",
       "Make it public.",
       "Add a getter.",
-      "Add a setter."
+      "Add a setter.",
     ],
     correctAnswer: "A",
     explanation: "The first step of encapsulation is to make the field private to hide it from outside access.",
     source: "Page 20",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 296,
@@ -4136,12 +4136,12 @@ export const quizData = [
       "ERROR: age has private access.",
       "It assigns successfully.",
       "It sets to default.",
-      "It calls a method."
+      "It calls a method.",
     ],
     correctAnswer: "A",
     explanation: "Attempting to access a private field directly results in a compilation error.",
     source: "Page 20",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 297,
@@ -4150,12 +4150,12 @@ export const quizData = [
       "Data hiding.",
       "Method overriding.",
       "Inheritance.",
-      "Polymorphism."
+      "Polymorphism.",
     ],
     correctAnswer: "A",
     explanation: "Making a field private is called data hiding, the first step of encapsulation.",
     source: "Page 20",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 298,
@@ -4164,12 +4164,12 @@ export const quizData = [
       "Sets the value safely if a >= 0.",
       "Always sets the value.",
       "Returns the value.",
-      "Deposits amount."
+      "Deposits amount.",
     ],
     correctAnswer: "A",
     explanation: "The setter method sets the value of 'age' only if the input is non-negative, ensuring safe assignment.",
     source: "Page 21",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 299,
@@ -4178,12 +4178,12 @@ export const quizData = [
       "private int age; and public void setAge(int a) with validation.",
       "public int age;",
       "getAge method.",
-      "deposit method."
+      "deposit method.",
     ],
     correctAnswer: "A",
     explanation: "The class includes a private 'age' field and a setAge method with validation.",
     source: "Page 21",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 300,
@@ -4192,12 +4192,12 @@ export const quizData = [
       "s.setAge(20); is safe assignment, s.setAge(-5); nothing happens (data stays valid).",
       "Both assign directly.",
       "Both throw errors.",
-      "Only negative assigns."
+      "Only negative assigns.",
     ],
     correctAnswer: "A",
     explanation: "s.setAge(20) assigns the value safely, while s.setAge(-5) does nothing, keeping the data valid.",
     source: "Page 21",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 301,
@@ -4206,12 +4206,12 @@ export const quizData = [
       "Returns the value of age.",
       "Sets the value.",
       "Validates input.",
-      "Deposits amount."
+      "Deposits amount.",
     ],
     correctAnswer: "A",
     explanation: "The getter method returns the value of the 'age' field.",
     source: "Page 22",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 302,
@@ -4220,12 +4220,12 @@ export const quizData = [
       "private age, setAge with validation, getAge to return age.",
       "public age only.",
       "No methods.",
-      "Abstract class."
+      "Abstract class.",
     ],
     correctAnswer: "A",
     explanation: "The class includes a private 'age' field, a setAge method with validation, and a getAge method to return the age.",
     source: "Page 22",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 303,
@@ -4234,12 +4234,12 @@ export const quizData = [
       "Sets age to 21 and prints 21.",
       "Sets to -21.",
       "Prints nothing.",
-      "Throws error."
+      "Throws error.",
     ],
     correctAnswer: "A",
     explanation: "The code sets the age to 21 using setAge and prints 21 using getAge.",
     source: "Page 23",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 304,
@@ -4248,12 +4248,12 @@ export const quizData = [
       "Full control over how the field is accessed.",
       "Direct access.",
       "No access.",
-      "Static control."
+      "Static control.",
     ],
     correctAnswer: "A",
     explanation: "Using getter and setter methods provides full control over how the field is accessed.",
     source: "Page 23",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 305,
@@ -4262,12 +4262,12 @@ export const quizData = [
       "Use private for all fields.",
       "Use public for all fields.",
       "Use protected for fields.",
-      "Use default for fields."
+      "Use default for fields.",
     ],
     correctAnswer: "A",
     explanation: "A best practice in encapsulation is to use private for all fields to hide them from outside access.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 306,
@@ -4276,12 +4276,12 @@ export const quizData = [
       "Use public methods (getters/setters).",
       "Use direct access.",
       "Use static methods.",
-      "Use abstract methods."
+      "Use abstract methods.",
     ],
     correctAnswer: "A",
     explanation: "Using public getter and setter methods is a best practice for safely accessing fields.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 307,
@@ -4290,12 +4290,12 @@ export const quizData = [
       "In setters when needed.",
       "In getters only.",
       "In constructors only.",
-      "Never."
+      "Never.",
     ],
     correctAnswer: "A",
     explanation: "Validation should be added in setter methods when needed to ensure data integrity.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 308,
@@ -4304,12 +4304,12 @@ export const quizData = [
       "Do not create setters.",
       "Create multiple setters.",
       "Create getters only if changing.",
-      "Make them public."
+      "Make them public.",
     ],
     correctAnswer: "A",
     explanation: "For fields that should not change, setters should not be created to enforce immutability.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 309,
@@ -4318,12 +4318,12 @@ export const quizData = [
       "Hides data from outside.",
       "Allows access through methods.",
       "Returns the value of a field.",
-      "Sets the value with optional checks."
+      "Sets the value with optional checks.",
     ],
     correctAnswer: "A",
     explanation: "The private keyword hides data from outside access, a key part of encapsulation.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 310,
@@ -4332,12 +4332,12 @@ export const quizData = [
       "Allows access through methods.",
       "Hides data from outside.",
       "Returns the value.",
-      "Sets the value."
+      "Sets the value.",
     ],
     correctAnswer: "A",
     explanation: "The public keyword allows access to fields through methods, such as getters and setters, in encapsulation.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 311,
@@ -4346,12 +4346,12 @@ export const quizData = [
       "Returns the value of a field.",
       "Sets the value with optional checks.",
       "Hides data.",
-      "Allows access."
+      "Allows access.",
     ],
     correctAnswer: "A",
     explanation: "getX() methods are used to return the value of a field in encapsulation.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 312,
@@ -4360,68 +4360,68 @@ export const quizData = [
       "Sets the value with optional checks.",
       "Returns the value of a field.",
       "Hides data.",
-      "Allows direct access."
+      "Allows direct access.",
     ],
     correctAnswer: "A",
     explanation: "setX() methods set the value of a field with optional validation checks in encapsulation.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 313,
-    question: "In the Student class example, what are the fields?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() { return name; }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() { return age; }\n}",
+    question: "In the Student class example, what are the fields?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() {\n    return name;\n  }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() {\n    return age;\n  }\n}",
     options: [
       "private String name; private int age;",
       "public String name; public int age;",
-      "protected String name;",
-      "static int age;"
+      "protected String name; protected int age;",
+      "static String name; static int age;",
     ],
     correctAnswer: "A",
     explanation: "The fields in the Student class are 'private String name' and 'private int age'.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 314,
-    question: "In the Student class example, what does setAge do?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() { return name; }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() { return age; }\n}",
+    question: "In the Student class example, what does setAge do?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() {\n    return name;\n  }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() {\n    return age;\n  }\n}",
     options: [
       "if (a >= 0) age = a;",
       "age = a; without check.",
       "return age;",
-      "name = n;"
+      "name = n;",
     ],
     correctAnswer: "A",
     explanation: "The setAge method sets the age only if the input is non-negative, ensuring valid data.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 315,
-    question: "In the example, how are fields handled?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() { return name; }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() { return age; }\n}",
+    question: "In the example, how are fields handled?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() {\n    return name;\n  }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() {\n    return age;\n  }\n}",
     options: [
       "Fields are private.",
       "Fields are public.",
       "Fields are protected.",
-      "Fields are static."
+      "Fields are static.",
     ],
     correctAnswer: "A",
     explanation: "The fields in the Student class are private, supporting encapsulation.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 316,
-    question: "In the example, what do methods control?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() { return name; }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() { return age; }\n}",
+    question: "In the example, what do methods control?\n\npublic class Student {\n  private String name;\n  private int age;\n  public void setName(String n) { name = n; }\n  public String getName() {\n    return name;\n  }\n  public void setAge(int a) { if (a >= 0) age = a; }\n  public int getAge() {\n    return age;\n  }\n}",
     options: [
       "How values are assigned and retrieved.",
       "Direct field access.",
       "Class extension.",
-      "Thread access."
+      "Thread access.",
     ],
     correctAnswer: "A",
     explanation: "Methods in the Student class control how values are assigned and retrieved, ensuring proper encapsulation.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 317,
@@ -4430,12 +4430,12 @@ export const quizData = [
       "Directly access fields.",
       "Use setters.",
       "Use getters.",
-      "Print values."
+      "Print values.",
     ],
     correctAnswer: "A",
     explanation: "External code cannot directly access the private fields of the Student class.",
     source: "Page 27",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 318,
@@ -4444,12 +4444,12 @@ export const quizData = [
       "Through controlled methods.",
       "Directly to fields.",
       "Via static calls.",
-      "Via constructors."
+      "Via constructors.",
     ],
     correctAnswer: "A",
     explanation: "All access to fields in the example is handled through controlled methods (getters and setters).",
     source: "Page 27",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 319,
@@ -4458,12 +4458,12 @@ export const quizData = [
       "private double balance;",
       "public double balance;",
       "protected double balance;",
-      "static double balance;"
+      "static double balance;",
     ],
     correctAnswer: "A",
     explanation: "The field in the BankAccount class is 'private double balance', ensuring encapsulation.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 320,
@@ -4472,12 +4472,12 @@ export const quizData = [
       "if (amount > 0) balance += amount;",
       "balance += amount; always.",
       "balance -= amount;",
-      "return balance;"
+      "return balance;",
     ],
     correctAnswer: "A",
     explanation: "The deposit method adds the amount to the balance only if the amount is positive.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 321,
@@ -4486,12 +4486,12 @@ export const quizData = [
       "if (amount > 0 && amount <= balance) balance -= amount;",
       "balance -= amount; always.",
       "balance += amount;",
-      "if (amount < 0) balance -= amount;"
+      "if (amount < 0) balance -= amount;",
     ],
     correctAnswer: "A",
     explanation: "The withdraw method subtracts the amount from the balance only if the amount is positive and does not exceed the balance.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 322,
@@ -4500,12 +4500,12 @@ export const quizData = [
       "Only through business rules.",
       "Directly.",
       "Via public field.",
-      "Via static methods."
+      "Via static methods.",
     ],
     correctAnswer: "A",
     explanation: "The balance can only be changed through business rules enforced by the deposit and withdraw methods.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 323,
@@ -4514,12 +4514,12 @@ export const quizData = [
       "They are rejected.",
       "They are allowed.",
       "They set to zero.",
-      "They throw exceptions."
+      "They throw exceptions.",
     ],
     correctAnswer: "A",
     explanation: "Invalid operations, such as a negative deposit, are rejected by the business rules in the deposit method.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 324,
@@ -4528,12 +4528,12 @@ export const quizData = [
       "The internal state is protected.",
       "External code.",
       "Methods are protected.",
-      "Balance is public."
+      "Balance is public.",
     ],
     correctAnswer: "A",
     explanation: "The internal state of the BankAccount class is protected through encapsulation.",
     source: "Page 29",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 325,
@@ -4542,12 +4542,12 @@ export const quizData = [
       "Only valid operations.",
       "All operations.",
       "No operations.",
-      "Static operations."
+      "Static operations.",
     ],
     correctAnswer: "A",
     explanation: "Only valid operations, as defined by the business rules, are allowed in the BankAccount class.",
     source: "Page 29",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 326,
@@ -4556,12 +4556,12 @@ export const quizData = [
       "Once in the constructor: this.name = name;",
       "Via setter.",
       "Directly public.",
-      "In getter."
+      "In getter.",
     ],
     correctAnswer: "A",
     explanation: "The 'name' field is initialized once in the constructor of the Country class.",
     source: "Page 30",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 327,
@@ -4570,12 +4570,12 @@ export const quizData = [
       "No setter means the value cannot be changed later.",
       "Setter is provided.",
       "Field is public.",
-      "Constructor changes it."
+      "Constructor changes it.",
     ],
     correctAnswer: "A",
     explanation: "The absence of a setter method means the 'name' field cannot be changed after initialization.",
     source: "Page 30",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 328,
@@ -4584,12 +4584,12 @@ export const quizData = [
       "private final String name; private final int age;",
       "public String name; public int age;",
       "protected final name;",
-      "static name;"
+      "static name;",
     ],
     correctAnswer: "A",
     explanation: "The fields in the immutable Student class are declared as 'private final String name' and 'private final int age'.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 329,
@@ -4598,12 +4598,12 @@ export const quizData = [
       "Once via the constructor: this.name = name; this.age = age;",
       "Via setters.",
       "Directly.",
-      "In getters."
+      "In getters.",
     ],
     correctAnswer: "A",
     explanation: "Values in the immutable Student class are set once via the constructor.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 330,
@@ -4612,12 +4612,12 @@ export const quizData = [
       "Fields are private and final.",
       "Fields are public.",
       "Setters are provided.",
-      "No constructor."
+      "No constructor.",
     ],
     correctAnswer: "A",
     explanation: "A key characteristic of an immutable class is that its fields are private and final.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 331,
@@ -4626,12 +4626,12 @@ export const quizData = [
       "No setters are provided.",
       "Setters are provided.",
       "Multiple setters.",
-      "Protected setters."
+      "Protected setters.",
     ],
     correctAnswer: "A",
     explanation: "No setters are provided in the immutable Student class to ensure immutability.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 332,
@@ -4640,12 +4640,12 @@ export const quizData = [
       "Values are set once via the constructor.",
       "Values change via setters.",
       "Values are direct.",
-      "Values are static."
+      "Values are static.",
     ],
     correctAnswer: "A",
     explanation: "Values in the immutable class are set once via the constructor, ensuring they cannot be changed later.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 333,
@@ -4654,12 +4654,12 @@ export const quizData = [
       "Use private to hide internal fields.",
       "Use public to hide fields.",
       "Use protected.",
-      "Use default."
+      "Use default.",
     ],
     correctAnswer: "A",
     explanation: "Using private to hide internal fields is a best practice in encapsulation.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 334,
@@ -4668,12 +4668,12 @@ export const quizData = [
       "Use methods to validate and control access.",
       "Use direct access.",
       "Avoid methods.",
-      "Use static only."
+      "Use static only.",
     ],
     correctAnswer: "A",
-    explanation: "Use methods to validate and control access",
+    explanation: "Use methods to validate and control access.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 335,
@@ -4682,12 +4682,12 @@ export const quizData = [
       "When fields should be read-only.",
       "Always provide setters.",
       "For public fields.",
-      "For private fields."
+      "For private fields.",
     ],
     correctAnswer: "A",
-    explanation: "Do not provide setters when fields should be read-only",
+    explanation: "Do not provide setters when fields should be read-only.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 336,
@@ -4696,12 +4696,12 @@ export const quizData = [
       "Full protection of internal state.",
       "Partial protection.",
       "No protection.",
-      "External changes."
+      "External changes.",
     ],
     correctAnswer: "A",
-    explanation: "Immutable classes ensure full protection of internal state",
+    explanation: "Immutable classes ensure full protection of internal state.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 337,
@@ -4710,12 +4710,12 @@ export const quizData = [
       "A namespace that organizes a set of related classes and interfaces.",
       "A class that extends another.",
       "A method group.",
-      "A variable container."
+      "A variable container.",
     ],
     correctAnswer: "A",
-    explanation: "Apackage is a namespace that organizes a set of related classes and interfaces.",
+    explanation: "A package is a namespace that organizes a set of related classes and interfaces.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 338,
@@ -4724,12 +4724,12 @@ export const quizData = [
       "Prevents class name conflicts.",
       "Increases conflicts.",
       "Hides all classes.",
-      "Removes interfaces."
+      "Removes interfaces.",
     ],
     correctAnswer: "A",
-    explanation: "Prevents class name conflicts",
+    explanation: "Prevents class name conflicts.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 339,
@@ -4738,12 +4738,12 @@ export const quizData = [
       "Groups similar classes together.",
       "Separates all classes.",
       "Deletes classes.",
-      "Makes classes abstract."
+      "Makes classes abstract.",
     ],
     correctAnswer: "A",
-    explanation: "Groups similar classes together",
+    explanation: "Groups similar classes together.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 340,
@@ -4752,12 +4752,12 @@ export const quizData = [
       "Helps maintain large projects.",
       "Complicates small projects.",
       "Prevents maintenance.",
-      "Ignores projects."
+      "Ignores projects.",
     ],
     correctAnswer: "A",
-    explanation: "Helps maintain large projects",
+    explanation: "Helps maintain large projects.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 341,
@@ -4766,12 +4766,12 @@ export const quizData = [
       "At the top: package myschool.student;",
       "At the bottom.",
       "In the class body.",
-      "In the method."
+      "In the method.",
     ],
     correctAnswer: "A",
-    explanation: "At the top of your .java file, declare the package: package myschool.student;",
+    explanation: "At the top of your .java file, declare the package: package myschool.student;.",
     source: "Page 34",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 342,
@@ -4780,12 +4780,12 @@ export const quizData = [
       "import myschool.student.Student;",
       "package myschool.student;",
       "extend myschool.student;",
-      "new myschool.student;"
+      "new myschool.student;",
     ],
     correctAnswer: "A",
-    explanation: "To use a class from another package: import myschool.student.Student;",
+    explanation: "To use a class from another package: import myschool.student.Student;.",
     source: "Page 34",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 343,
@@ -4794,12 +4794,12 @@ export const quizData = [
       "java.lang",
       "java.util",
       "java.io",
-      "java.time"
+      "java.time",
     ],
     correctAnswer: "A",
-    explanation: "java.lang – core language features (automatically imported)",
+    explanation: "java.lang – core language features (automatically imported).",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 344,
@@ -4808,12 +4808,12 @@ export const quizData = [
       "java.util",
       "java.lang",
       "java.io",
-      "java.math"
+      "java.math",
     ],
     correctAnswer: "A",
-    explanation: "java.util – data structures and utilities",
+    explanation: "java.util – data structures and utilities.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 345,
@@ -4822,12 +4822,12 @@ export const quizData = [
       "java.io",
       "java.util",
       "java.time",
-      "java.math"
+      "java.math",
     ],
     correctAnswer: "A",
-    explanation: "java.io – input/output",
+    explanation: "java.io – input/output.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 346,
@@ -4836,12 +4836,12 @@ export const quizData = [
       "java.time",
       "java.io",
       "java.util",
-      "java.lang"
+      "java.lang",
     ],
     correctAnswer: "A",
-    explanation: "java.time – date and time",
+    explanation: "java.time – date and time.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 347,
@@ -4850,12 +4850,12 @@ export const quizData = [
       "java.math",
       "java.time",
       "java.io",
-      "java.lang"
+      "java.lang",
     ],
     correctAnswer: "A",
-    explanation: "java.math – mathematical operations",
+    explanation: "java.math – mathematical operations.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 348,
@@ -4864,12 +4864,12 @@ export const quizData = [
       "import java.util.Scanner;",
       "import java.lang;",
       "import java.io;",
-      "No import."
+      "No import.",
     ],
     correctAnswer: "A",
-    explanation: "import java.util.Scanner;",
+    explanation: "import java.util.Scanner;.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 349,
@@ -4878,12 +4878,12 @@ export const quizData = [
       "Reads input: String name = sc.nextLine();",
       "Prints output only.",
       "Calculates math.",
-      "Handles files."
+      "Handles files.",
     ],
     correctAnswer: "A",
-    explanation: "Scanner sc = new Scanner(System.in); String name = sc.nextLine();",
+    explanation: "Scanner sc = new Scanner(System.in); String name = sc.nextLine();.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 350,
@@ -4892,12 +4892,12 @@ export const quizData = [
       "java.util",
       "java.lang",
       "java.io",
-      "java.math"
+      "java.math",
     ],
     correctAnswer: "A",
-    explanation: "Scanner is part of the java.util package",
+    explanation: "Scanner is part of the java.util package.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 351,
@@ -4906,12 +4906,12 @@ export const quizData = [
       "To use it in our program.",
       "To hide it.",
       "To delete it.",
-      "To make it private."
+      "To make it private.",
     ],
     correctAnswer: "A",
-    explanation: "We import it to use in our program",
+    explanation: "We import it to use in our program.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 352,
@@ -4920,12 +4920,12 @@ export const quizData = [
       "✅ from same, ✅ from different.",
       "✅ from same, ❌ from different.",
       "❌ from same, ❌ from different.",
-      "✅ from same, ✅ if subclass."
+      "✅ from same, ✅ if subclass.",
     ],
     correctAnswer: "A",
-    explanation: "public ✅ ✅",
+    explanation: "public ✅ ✅.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 353,
@@ -4934,12 +4934,12 @@ export const quizData = [
       "✅ from same, ✅ (if subclass) from different.",
       "✅ from same, ✅ from different.",
       "✅ from same, ❌ from different.",
-      "❌ from same, ❌ from different."
+      "❌ from same, ❌ from different.",
     ],
     correctAnswer: "A",
-    explanation: "protected ✅ ✅ (ifsubclass)",
+    explanation: "protected ✅ ✅ (if subclass).",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 354,
@@ -4948,12 +4948,12 @@ export const quizData = [
       "✅ from same, ❌ from different.",
       "✅ from same, ✅ from different.",
       "❌ from same, ❌ from different.",
-      "✅ from same, ✅ if subclass."
+      "✅ from same, ✅ if subclass.",
     ],
     correctAnswer: "A",
-    explanation: "default ✅ ❌",
+    explanation: "default ✅ ❌.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 355,
@@ -4962,12 +4962,12 @@ export const quizData = [
       "❌ from same, ❌ from different.",
       "✅ from same, ✅ from different.",
       "✅ from same, ❌ from different.",
-      "✅ from same, ✅ if subclass."
+      "✅ from same, ✅ if subclass.",
     ],
     correctAnswer: "A",
-    explanation: "private ❌ ❌",
+    explanation: "private ❌ ❌.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 356,
@@ -4976,12 +4976,12 @@ export const quizData = [
       "Access modifiers.",
       "Classes only.",
       "Methods only.",
-      "Variables only."
+      "Variables only.",
     ],
     correctAnswer: "A",
-    explanation: "Key Point: Packages work with access modifiers to control visibility across files",
+    explanation: "Key Point: Packages work with access modifiers to control visibility across files.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 357,
@@ -4990,12 +4990,12 @@ export const quizData = [
       "A collection of prewritten classes provided by the Java platform.",
       "A user-defined class.",
       "A package declaration.",
-      "A method library."
+      "A method library.",
     ],
     correctAnswer: "A",
     explanation: "The Java API is a collection of prewritten classes provided by the Java platform.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 358,
@@ -5004,12 +5004,12 @@ export const quizData = [
       "Classes for strings, files, networking, collections, etc.",
       "Only user classes.",
       "Only primitives.",
-      "Only exceptions."
+      "Only exceptions.",
     ],
     correctAnswer: "A",
     explanation: "Includes classes for strings, files, networking, collections, etc.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 359,
@@ -5018,12 +5018,12 @@ export const quizData = [
       "Saves time – no need to reinvent the wheel.",
       "Increases time.",
       "Reinvents classes.",
-      "Deletes code."
+      "Deletes code.",
     ],
     correctAnswer: "A",
-    explanation: "Saves time – no need to reinvent the wheel",
+    explanation: "Saves time – no need to reinvent the wheel.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 360,
@@ -5032,12 +5032,12 @@ export const quizData = [
       "Well-documented with examples.",
       "Undocumented.",
       "No examples.",
-      "Poorly maintained."
+      "Poorly maintained.",
     ],
     correctAnswer: "A",
-    explanation: "Well-documented with examples",
+    explanation: "Well-documented with examples.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 361,
@@ -5046,12 +5046,12 @@ export const quizData = [
       "Use import.",
       "Use package.",
       "Use extend.",
-      "Use new."
+      "Use new.",
     ],
     correctAnswer: "A",
-    explanation: "Use import to bring in classes",
+    explanation: "Use import to bring in classes.",
     source: "Page 39",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 362,
@@ -5060,12 +5060,12 @@ export const quizData = [
       "https://docs.oracle.com/en/java/javase/",
       "https://example.com",
       "Local file.",
-      "No documentation."
+      "No documentation.",
     ],
     correctAnswer: "A",
-    explanation: "Look up documentation at: https://docs.oracle.com/en/java/javase/",
+    explanation: "Look up documentation at: https://docs.oracle.com/en/java/javase/.",
     source: "Page 39",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 363,
@@ -5074,12 +5074,12 @@ export const quizData = [
       "From java.lang (auto-imported).",
       "From java.util, manual import.",
       "From java.math, import needed.",
-      "From java.io."
+      "From java.io.",
     ],
     correctAnswer: "A",
-    explanation: "Using Math class from java.lang (auto-imported):",
+    explanation: "Using Math class from java.lang (auto-imported):.",
     source: "Page 39",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 364,
@@ -5088,12 +5088,12 @@ export const quizData = [
       "import java.util.ArrayList;",
       "import java.lang.ArrayList;",
       "No import.",
-      "import java.io;"
+      "import java.io;",
     ],
     correctAnswer: "A",
-    explanation: "import java.util.ArrayList;",
+    explanation: "import java.util.ArrayList;.",
     source: "Page 40",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 365,
@@ -5102,12 +5102,12 @@ export const quizData = [
       "Adds \"Java\" and \"OOP\" to a dynamic array.",
       "Removes items.",
       "Calculates sqrt.",
-      "Reads input."
+      "Reads input.",
     ],
     correctAnswer: "A",
-    explanation: "list.add(\"Java\"); list.add(\"OOP\");",
+    explanation: "list.add(\"Java\"); list.add(\"OOP\");.",
     source: "Page 40",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 366,
@@ -5116,12 +5116,12 @@ export const quizData = [
       "java.util",
       "java.lang",
       "java.math",
-      "java.time"
+      "java.time",
     ],
     correctAnswer: "A",
-    explanation: "ArrayList is from java.util",
+    explanation: "ArrayList is from java.util.",
     source: "Page 40",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 367,
@@ -5130,12 +5130,12 @@ export const quizData = [
       "Generic class for dynamic arrays.",
       "Static array.",
       "Method for math.",
-      "Input class."
+      "Input class.",
     ],
     correctAnswer: "A",
-    explanation: "Generic class for dynamic arrays",
+    explanation: "Generic class for dynamic arrays.",
     source: "Page 40",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 368,
@@ -5144,12 +5144,12 @@ export const quizData = [
       "Group related classes and avoid naming conflicts.",
       "Hide classes.",
       "Delete classes.",
-      "Make classes final."
+      "Make classes final.",
     ],
     correctAnswer: "A",
-    explanation: "Packages group related classes and avoid naming conflicts",
+    explanation: "Packages group related classes and avoid naming conflicts.",
     source: "Page 41",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 369,
@@ -5158,12 +5158,12 @@ export const quizData = [
       "Use package to define; import to use.",
       "Use import to define.",
       "Use extend to use.",
-      "No need for import."
+      "No need for import.",
     ],
     correctAnswer: "A",
-    explanation: "Use package to define; import to use",
+    explanation: "Use package to define; import to use.",
     source: "Page 41",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 370,
@@ -5172,12 +5172,12 @@ export const quizData = [
       "Thousands of ready-to-use classes.",
       "Only a few classes.",
       "User-defined only.",
-      "No classes."
+      "No classes.",
     ],
     correctAnswer: "A",
-    explanation: "The Java API gives you thousands of ready-to-use classes",
+    explanation: "The Java API gives you thousands of ready-to-use classes.",
     source: "Page 41",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 371,
@@ -5186,12 +5186,12 @@ export const quizData = [
       "Learn to read JavaDoc.",
       "Ignore documentation.",
       "Write your own.",
-      "Use only lang."
+      "Use only lang.",
     ],
     correctAnswer: "A",
-    explanation: "Learn to read JavaDoc to understand available functionality",
+    explanation: "Learn to read JavaDoc to understand available functionality.",
     source: "Page 41",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 372,
@@ -5200,12 +5200,12 @@ export const quizData = [
       "They define accessibility and behavior or constraints.",
       "They handle exception throwing.",
       "They manage loop iterations.",
-      "They create array structures."
+      "They create array structures.",
     ],
     correctAnswer: "A",
-    explanation: "In Java, modifiers are keywords used to define: The accessibility of classes, methods, fields, and constructors; The behavior or constraints of these elements",
+    explanation: "In Java, modifiers are keywords used to define the accessibility of classes, methods, fields, and constructors, as well as their behavior or constraints.",
     source: "Page 2",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 373,
@@ -5214,12 +5214,12 @@ export const quizData = [
       "Access controls visibility; non-access defines additional behavior unrelated to access.",
       "Access defines behavior; non-access controls visibility.",
       "Both categories manage only visibility.",
-      "Both categories handle only constraints."
+      "Both categories handle only constraints.",
     ],
     correctAnswer: "A",
-    explanation: "Access Modifiers – Control visibility; Non-Access Modifiers – Define additional behavior, not related to access",
+    explanation: "Access Modifiers – Control visibility; Non-Access Modifiers – Define additional behavior, not related to access.",
     source: "Page 2",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 374,
@@ -5228,12 +5228,12 @@ export const quizData = [
       "They control visibility of classes and members.",
       "They define characteristics or constraints.",
       "They group related classes.",
-      "They provide ready-to-use methods."
+      "They provide ready-to-use methods.",
     ],
     correctAnswer: "A",
-    explanation: "Access Modifiers: Control visibility of classes and members",
+    explanation: "Access Modifiers: Control visibility of classes and members.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 375,
@@ -5242,12 +5242,12 @@ export const quizData = [
       "Define characteristics or constraints.",
       "Control visibility of classes and members.",
       "Wrap data and methods.",
-      "Organize namespaces."
+      "Organize namespaces.",
     ],
     correctAnswer: "A",
-    explanation: "Non-Access Modifiers: Define characteristics or constraints",
+    explanation: "Non-Access Modifiers: Define characteristics or constraints.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 376,
@@ -5255,13 +5255,13 @@ export const quizData = [
     options: [
       "public, private, protected, default.",
       "static, final, abstract, synchronized.",
-      "transient, volatile, synchronized, abstract.",
-      "final, static, public, private."
+      "class, object, method, field.",
+      "extends, implements, super, this.",
     ],
     correctAnswer: "A",
-    explanation: "Access: public, private, protected, default",
+    explanation: "Access: public, private, protected, default.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 377,
@@ -5269,41 +5269,41 @@ export const quizData = [
     options: [
       "static, final, abstract, synchronized, etc.",
       "public, private, protected, default.",
-      "class, object, method, field.",
-      "extends, implements, super, this."
+      "void, return, if, else.",
+      "new, this, super, extends.",
     ],
     correctAnswer: "A",
     explanation: "Non-access: static, final, abstract, synchronized, etc.",
     source: "Page 3",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 378,
-    question: "In the code example, why can other classes access the Main class?",
+    question: "In the code example, why can other classes access the Main class?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello World\");\n  }\n}",
     options: [
       "Because it is declared public, defining its visibility.",
       "Because it uses static.",
       "Because it has a main method.",
-      "Because it prints to console."
+      "Because it prints to console.",
     ],
     correctAnswer: "A",
     explanation: "It defines the visibility of the class Main and the method main. Any other class can access Main because it is declared public.",
     source: "Page 4",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 379,
-    question: "What role does the 'public' keyword play in the provided code example?",
+    question: "What role does the 'public' keyword play in the provided code example?\n\npublic class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello World\");\n  }\n}",
     options: [
       "It is a modifier defining visibility for class and method.",
       "It declares a variable.",
       "It initializes an object.",
-      "It controls loop behavior."
+      "It controls loop behavior.",
     ],
     correctAnswer: "A",
     explanation: "The keyword public is a modifier.",
     source: "Page 4",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 380,
@@ -5312,12 +5312,12 @@ export const quizData = [
       "Class members from specific locations.",
       "Only class definitions.",
       "Variable types only.",
-      "Method parameters only."
+      "Method parameters only.",
     ],
     correctAnswer: "A",
     explanation: "Access modifiers determine where a class member can be accessed from.",
     source: "Page 5",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 381,
@@ -5326,12 +5326,12 @@ export const quizData = [
       "public, protected, default (no keyword), private.",
       "static, final, abstract, synchronized.",
       "public, private, static, final.",
-      "protected, default, transient, volatile."
+      "protected, default, transient, volatile.",
     ],
     correctAnswer: "A",
-    explanation: "Java provides four access levels: public, protected, default (no keyword), private",
+    explanation: "Java provides four access levels: public, protected, default (no keyword), private.",
     source: "Page 5",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 382,
@@ -5340,12 +5340,12 @@ export const quizData = [
       "Only public and default (no modifier).",
       "All four including private and protected.",
       "Only private and protected.",
-      "Only abstract and final."
+      "Only abstract and final.",
     ],
     correctAnswer: "A",
-    explanation: "Only two modifiers are allowed for top-level classes:",
+    explanation: "Only two modifiers are allowed for top-level classes: public and default (no modifier).",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 383,
@@ -5354,12 +5354,12 @@ export const quizData = [
       "Accessible from any other class.",
       "Accessible only within the same package.",
       "No access outside its file.",
-      "Access only by subclasses."
+      "Access only by subclasses.",
     ],
     correctAnswer: "A",
-    explanation: "public: The class is accessible from any other class",
+    explanation: "public: The class is accessible from any other class.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 384,
@@ -5368,12 +5368,12 @@ export const quizData = [
       "Accessible only within the same package.",
       "Accessible from any other class.",
       "Hidden completely.",
-      "Accessible by subclasses anywhere."
+      "Accessible by subclasses anywhere.",
     ],
     correctAnswer: "A",
-    explanation: "default (no modifier): The class is accessible only within the same package",
+    explanation: "default (no modifier): The class is accessible only within the same package.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 385,
@@ -5382,12 +5382,12 @@ export const quizData = [
       "You will learn more about packages later in this course.",
       "Packages are not related to access.",
       "Packages replace modifiers.",
-      "Packages are covered immediately."
+      "Packages are covered immediately.",
     ],
     correctAnswer: "A",
     explanation: "You will learn more about packages later in this course.",
     source: "Page 6",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 386,
@@ -5396,12 +5396,12 @@ export const quizData = [
       "Directly in a .java file.",
       "Inside another class or method.",
       "Within a package only.",
-      "In a constructor."
+      "In a constructor.",
     ],
     correctAnswer: "A",
-    explanation: "Top-level: Directly in a .java file",
+    explanation: "Top-level: Directly in a .java file.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 387,
@@ -5410,12 +5410,12 @@ export const quizData = [
       "Inside another class or method.",
       "Directly in a .java file.",
       "In an external package.",
-      "In the main function."
+      "In the main function.",
     ],
     correctAnswer: "A",
-    explanation: "Nested: Inside another class or method",
+    explanation: "Nested: Inside another class or method.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 388,
@@ -5424,12 +5424,12 @@ export const quizData = [
       "Main classes of programs.",
       "Utility or helper classes.",
       "Data validation only.",
-      "Method definitions only."
+      "Method definitions only.",
     ],
     correctAnswer: "A",
-    explanation: "Main classes of programs",
+    explanation: "Main classes of programs.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 389,
@@ -5438,12 +5438,12 @@ export const quizData = [
       "Utility or helper classes.",
       "Main classes of programs.",
       "Abstract base classes.",
-      "Final immutable classes."
+      "Final immutable classes.",
     ],
     correctAnswer: "A",
-    explanation: "Utility or helper classes",
+    explanation: "Utility or helper classes.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 390,
@@ -5452,12 +5452,12 @@ export const quizData = [
       "Top-level class.",
       "Nested class.",
       "Abstract class.",
-      "Static class."
+      "Static class.",
     ],
     correctAnswer: "A",
-    explanation: "// Top-Level class public class Outer {",
+    explanation: "// Top-Level class public class Outer {.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 391,
@@ -5466,12 +5466,12 @@ export const quizData = [
       "Nested class.",
       "Top-level class.",
       "Public class.",
-      "Private class."
+      "Private class.",
     ],
     correctAnswer: "A",
-    explanation: "// Nested class class Inner {",
+    explanation: "// Nested class class Inner {.",
     source: "Page 7",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 392,
@@ -5480,12 +5480,12 @@ export const quizData = [
       "public and default (no modifier).",
       "private and protected.",
       "final and abstract.",
-      "static and volatile."
+      "static and volatile.",
     ],
     correctAnswer: "A",
-    explanation: "Top-level classes can only use: public, default (no modifier)",
+    explanation: "Top-level classes can only use: public, default (no modifier).",
     source: "Page 8",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 393,
@@ -5494,12 +5494,12 @@ export const quizData = [
       "They imply visibility relative to another class, but top-level is not inside another.",
       "They are for methods only.",
       "They conflict with non-access modifiers.",
-      "They make classes non-instantiable."
+      "They make classes non-instantiable.",
     ],
     correctAnswer: "A",
-    explanation: "private and protected imply visibility inside or relative to another class; Atop-level class is not inside another class, so private and protected are not meaningful",
+    explanation: "private and protected imply visibility inside or relative to another class; A top-level class is not inside another class, so private and protected are not meaningful.",
     source: "Page 8",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 394,
@@ -5508,12 +5508,12 @@ export const quizData = [
       "public class MyClass { }",
       "private class HiddenClass { }",
       "protected class SubClass { }",
-      "abstr act class AbsClass { }"
+      "abstract class AbsClass { }",
     ],
     correctAnswer: "A",
-    explanation: "Valid: public class MyClass { }",
+    explanation: "Valid: public class MyClass { }.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 395,
@@ -5522,12 +5522,12 @@ export const quizData = [
       "class PackageClass { }",
       "public class MyClass { }",
       "private class HiddenClass { }",
-      "protected class SubClass { }"
+      "protected class SubClass { }",
     ],
     correctAnswer: "A",
-    explanation: "class PackageClass { } // default access",
+    explanation: "class PackageClass { } // default access.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 396,
@@ -5536,12 +5536,12 @@ export const quizData = [
       "It causes an ERROR, as private is invalid for top-level.",
       "It is valid but restricted.",
       "It requires nesting.",
-      "It needs public extension."
+      "It needs public extension.",
     ],
     correctAnswer: "A",
-    explanation: "Invalid: private class HiddenClass { } // ERROR",
+    explanation: "Invalid: private class HiddenClass { } // ERROR.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 397,
@@ -5550,12 +5550,12 @@ export const quizData = [
       "It results in an ERROR, as protected is not allowed.",
       "It is valid for inheritance only.",
       "It conflicts with default.",
-      "It must be final."
+      "It must be final.",
     ],
     correctAnswer: "A",
-    explanation: "protected class SubClass { } // ERROR",
+    explanation: "protected class SubClass { } // ERROR.",
     source: "Page 9",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 398,
@@ -5564,12 +5564,12 @@ export const quizData = [
       "Accessible from any class.",
       "Only within declaring class.",
       "Only same package.",
-      "Same package and subclasses."
+      "Same package and subclasses.",
     ],
     correctAnswer: "A",
-    explanation: "public: Accessible from any class",
+    explanation: "public: Accessible from any class.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 399,
@@ -5578,12 +5578,12 @@ export const quizData = [
       "Only within the declaring class.",
       "From any class.",
       "Only same package.",
-      "Same package and subclasses."
+      "Same package and subclasses.",
     ],
     correctAnswer: "A",
-    explanation: "private: Accessible only within the declaring class",
+    explanation: "private: Accessible only within the declaring class.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 400,
@@ -5592,12 +5592,12 @@ export const quizData = [
       "Only within the same package.",
       "From any class.",
       "Only declaring class.",
-      "Same package and subclasses."
+      "Same package and subclasses.",
     ],
     correctAnswer: "A",
-    explanation: "default (no modifier): Accessible only within the same package",
+    explanation: "default (no modifier): Accessible only within the same package.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 401,
@@ -5606,12 +5606,12 @@ export const quizData = [
       "Within same package and by subclasses.",
       "From any class.",
       "Only declaring class.",
-      "Only same package."
+      "Only same package.",
     ],
     correctAnswer: "A",
-    explanation: "protected: Accessible within the same package and by subclasses",
+    explanation: "protected: Accessible within the same package and by subclasses.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 402,
@@ -5620,40 +5620,40 @@ export const quizData = [
       "Inheritance.",
       "Packages.",
       "Encapsulation.",
-      "Modifiers."
+      "Modifiers.",
     ],
     correctAnswer: "A",
     explanation: "The use of protected will become clearer when we study inheritance.",
     source: "Page 10",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 403,
-    question: "In the Student class code, why can't 'name' be accessed externally?",
+    question: "In the Student class code, why can't 'name' be accessed externally?\n\npublic class Student {\n  private String name;\n  public void setName(String n) {\n    name = n;\n  }\n  public String getName() {\n    return name;\n  }\n}",
     options: [
       "It is private, not accessible outside the class.",
       "It is public, but hidden.",
       "It is protected for subclasses.",
-      "It is default package level."
+      "It is default package level.",
     ],
     correctAnswer: "A",
-    explanation: "name is private – not accessible outside the class",
+    explanation: "name is private – not accessible outside the class.",
     source: "Page 11",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 404,
-    question: "In the Student class, what role do setName and getName play?",
+    question: "In the Student class, what role do setName and getName play?\n\npublic class Student {\n  private String name;\n  public void setName(String n) {\n    name = n;\n  }\n  public String getName() {\n    return name;\n  }\n}",
     options: [
       "Provide controlled access to the field.",
       "Expose the field directly.",
       "Make the field static.",
-      "Declare the field abstract."
+      "Declare the field abstract.",
     ],
     correctAnswer: "A",
-    explanation: "setName() and getName() provide controlled access",
+    explanation: "setName() and getName() provide controlled access.",
     source: "Page 11",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 405,
@@ -5662,12 +5662,12 @@ export const quizData = [
       "Extension or subclassing.",
       "Instantiation.",
       "Method overriding.",
-      "Field modification."
+      "Field modification.",
     ],
     correctAnswer: "A",
-    explanation: "final: The class cannot be extended (no subclassing allowed)",
+    explanation: "final: The class cannot be extended (no subclassing allowed).",
     source: "Page 12",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 406,
@@ -5676,12 +5676,12 @@ export const quizData = [
       "Subclassing; cannot be instantiated directly.",
       "No subclassing allowed.",
       "All methods to have bodies.",
-      "Fields to be modifiable."
+      "Fields to be modifiable.",
     ],
     correctAnswer: "A",
-    explanation: "abstract: The class cannot be instantiated; must be subclassed",
+    explanation: "abstract: The class cannot be instantiated; must be subclassed.",
     source: "Page 12",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 407,
@@ -5690,12 +5690,12 @@ export const quizData = [
       "Fields cannot be modified; methods cannot be overridden.",
       "Belong to class, not instance.",
       "Method without body, must override.",
-      "Skipped in serialization."
+      "Skipped in serialization.",
     ],
     correctAnswer: "A",
-    explanation: "final: Cannot be modified (fields) or overridden (methods)",
+    explanation: "final: Cannot be modified (fields) or overridden (methods).",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 408,
@@ -5704,12 +5704,12 @@ export const quizData = [
       "Belongs to the class, not to any instance.",
       "Cannot be modified or overridden.",
       "Declares without body for override.",
-      "Allows single thread access only."
+      "Allows single thread access only.",
     ],
     correctAnswer: "A",
-    explanation: "static: Belongs to the class, not to any instance",
+    explanation: "static: Belongs to the class, not to any instance.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 409,
@@ -5718,12 +5718,12 @@ export const quizData = [
       "Method without body; must be overridden in subclass.",
       "Belongs to class.",
       "Cannot be modified.",
-      "Read from main memory."
+      "Read from main memory.",
     ],
     correctAnswer: "A",
-    explanation: "abstract: Declares a method without a body; must be overridden in subclass",
+    explanation: "abstract: Declares a method without a body; must be overridden in subclass.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 410,
@@ -5732,12 +5732,12 @@ export const quizData = [
       "Skipped.",
       "Read from cache.",
       "Single thread access.",
-      "Without body."
+      "Without body.",
     ],
     correctAnswer: "A",
-    explanation: "transient: Skipped during serialization",
+    explanation: "transient: Skipped during serialization.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 411,
@@ -5746,12 +5746,12 @@ export const quizData = [
       "Only one thread at a time.",
       "Skipped in serialization.",
       "Belong to instance.",
-      "Can be overridden."
+      "Can be overridden.",
     ],
     correctAnswer: "A",
-    explanation: "synchronized: Allows only one thread to access the method at a time",
+    explanation: "synchronized: Allows only one thread to access the method at a time.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 412,
@@ -5760,12 +5760,12 @@ export const quizData = [
       "Main memory, not thread-local cache.",
       "Thread cache only.",
       "Serialization stream.",
-      "Subclass override."
+      "Subclass override.",
     ],
     correctAnswer: "A",
-    explanation: "volatile: Always read from main memory, not thread-local cache",
+    explanation: "volatile: Always read from main memory, not thread-local cache.",
     source: "Page 13",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 413,
@@ -5774,12 +5774,12 @@ export const quizData = [
       "Visibility.",
       "Inheritance only.",
       "Concurrency only.",
-      "Memory only."
+      "Memory only.",
     ],
     correctAnswer: "A",
-    explanation: "Use access modifiers to manage visibility and support encapsulation",
+    explanation: "Use access modifiers to manage visibility and support encapsulation.",
     source: "Page 14",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 414,
@@ -5788,12 +5788,12 @@ export const quizData = [
       "Inheritance, concurrency, memory behavior, method structure.",
       "Visibility and encapsulation only.",
       "Data wrapping only.",
-      "Package organization."
+      "Package organization.",
     ],
     correctAnswer: "A",
-    explanation: "Use non-access modifiers to control inheritance, concurrency, memory behavior, and method structure",
+    explanation: "Use non-access modifiers to control inheritance, concurrency, memory behavior, and method structure.",
     source: "Page 14",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 415,
@@ -5802,12 +5802,12 @@ export const quizData = [
       "Writing robust, maintainable, and secure code.",
       "Handling only basic syntax.",
       "Managing exceptions solely.",
-      "Creating simple loops."
+      "Creating simple loops.",
     ],
     correctAnswer: "A",
-    explanation: "Mastering Java modifiers helps you write robust, maintainable, and secure code",
+    explanation: "Mastering Java modifiers helps you write robust, maintainable, and secure code.",
     source: "Page 14",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 416,
@@ -5816,12 +5816,12 @@ export const quizData = [
       "Data (fields) and methods, restricting direct access to components.",
       "Only methods without data.",
       "Classes into packages.",
-      "Modifiers into categories."
+      "Modifiers into categories.",
     ],
     correctAnswer: "A",
     explanation: "Wrapping data (fields) and methods into a single unit – the class – and restricting direct access to some components.",
     source: "Page 15",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 417,
@@ -5830,12 +5830,12 @@ export const quizData = [
       "Object-Oriented Programming.",
       "Procedural Programming.",
       "Functional Programming.",
-      "Script-based Programming."
+      "Script-based Programming.",
     ],
     correctAnswer: "A",
     explanation: "Encapsulation is one of the fundamental principles of Object-Oriented Programming.",
     source: "Page 15",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 418,
@@ -5844,12 +5844,12 @@ export const quizData = [
       "Data inside an object.",
       "Methods in a class.",
       "Public modifiers.",
-      "Static fields."
+      "Static fields.",
     ],
     correctAnswer: "A",
-    explanation: "Data inside an object should not be directly accessible",
+    explanation: "Data inside an object should not be directly accessible.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 419,
@@ -5858,12 +5858,12 @@ export const quizData = [
       "Via methods.",
       "Directly.",
       "Through static calls.",
-      "Via inheritance."
+      "Via inheritance.",
     ],
     correctAnswer: "A",
-    explanation: "Instead, it should be accessed via methods",
+    explanation: "Instead, it should be accessed via methods.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 420,
@@ -5872,12 +5872,12 @@ export const quizData = [
       "Access modifiers and getter/setter methods.",
       "Only public fields.",
       "Abstract classes.",
-      "Final modifiers."
+      "Final modifiers.",
     ],
     correctAnswer: "A",
-    explanation: "This is done using access modifiers and getter/setter methods",
+    explanation: "This is done using access modifiers and getter/setter methods.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 421,
@@ -5886,12 +5886,12 @@ export const quizData = [
       "It is private.",
       "It is public.",
       "It is static.",
-      "It is final."
+      "It is final.",
     ],
     correctAnswer: "A",
-    explanation: "private double balance; // hidden",
+    explanation: "private double balance; // hidden.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 422,
@@ -5900,12 +5900,12 @@ export const quizData = [
       "If amount > 0.",
       "Always regardless of amount.",
       "If amount < 0.",
-      "If balance > amount."
+      "If balance > amount.",
     ],
     correctAnswer: "A",
-    explanation: "if (amount > 0) balance += amount;",
+    explanation: "if (amount > 0) balance += amount;.",
     source: "Page 16",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 423,
@@ -5914,12 +5914,12 @@ export const quizData = [
       "Prevents unauthorized or invalid access.",
       "Allows all changes.",
       "Exposes internals.",
-      "Removes validation."
+      "Removes validation.",
     ],
     correctAnswer: "A",
-    explanation: "1. Protects data integrity: Prevents unauthorized or invalid access",
+    explanation: "1. Protects data integrity: Prevents unauthorized or invalid access.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 424,
@@ -5928,12 +5928,12 @@ export const quizData = [
       "Internal changes do not affect external code.",
       "External code must change with internals.",
       "No changes are possible.",
-      "All code is affected."
+      "All code is affected.",
     ],
     correctAnswer: "A",
-    explanation: "2. Improves maintainability: Changes to internal implementation do not affect external code",
+    explanation: "2. Improves maintainability: Changes to internal implementation do not affect external code.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 425,
@@ -5942,12 +5942,12 @@ export const quizData = [
       "Controlled access with safe interactions via well-defined methods.",
       "Uncontrolled direct access.",
       "No access at all.",
-      "Access without definitions."
+      "Access without definitions.",
     ],
     correctAnswer: "A",
-    explanation: "3. Provides controlled access: Only allows safe interactions through well-defined methods",
+    explanation: "3. Provides controlled access: Only allows safe interactions through well-defined methods.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 426,
@@ -5956,40 +5956,40 @@ export const quizData = [
       "Modular design with self-contained objects.",
       "Monolithic design.",
       "Dependent objects.",
-      "Unclear interfaces."
+      "Unclear interfaces.",
     ],
     correctAnswer: "A",
-    explanation: "4. Encourages modular design: Objects are self-contained, with clear interfaces",
+    explanation: "4. Encourages modular design: Objects are self-contained, with clear interfaces.",
     source: "Page 17",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 427,
-    question: "In the non-encapsulated Student class, what problem exists with 'age'?",
+    question: "In the non-encapsulated Student class, what problem exists with 'age'?\n\nclass Student {\n  public int age; // directly modifiable\n}",
     options: [
       "It is directly modifiable.",
       "It has validation built-in.",
       "It is hidden.",
-      "It is read-only."
+      "It is read-only.",
     ],
     correctAnswer: "A",
-    explanation: "public int age; // directly modifiable",
+    explanation: "public int age; // directly modifiable.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 428,
-    question: "In the encapsulated Student class, access to 'age' is managed how?",
+    question: "In the encapsulated Student class, access to 'age' is managed how?\n\nclass Student {\n  private int age;\n  public void setAge(int a) {\n    if (a >= 0) age = a;\n  }\n  public int getAge() {\n    return age;\n  }\n}",
     options: [
       "Via setter with validation and getter.",
       "Directly without methods.",
       "No access provided.",
-      "Static class level."
+      "Static class level.",
     ],
     correctAnswer: "A",
-    explanation: "private int age; public void setAge(int a) { if (a >= 0) age = a; } public int getAge() { return age; }",
+    explanation: "private int age; public void setAge(int a) { if (a >= 0) age = a; } public int getAge() { return age; }.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 429,
@@ -5998,12 +5998,12 @@ export const quizData = [
       "Exposes internal data directly.",
       "Allows only validated access.",
       "Uses private fields.",
-      "Provides methods only."
+      "Provides methods only.",
     ],
     correctAnswer: "A",
     explanation: "The first version exposes the internal data directly.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 430,
@@ -6012,26 +6012,26 @@ export const quizData = [
       "Allows only safe, validated access.",
       "Exposes data directly.",
       "No validation needed.",
-      "Public fields used."
+      "Public fields used.",
     ],
     correctAnswer: "A",
     explanation: "The second version allows only safe, validated access.",
     source: "Page 18",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 431,
-    question: "In the example showing issues with public fields, how is 'age' declared?",
+    question: "In the example showing issues with public fields, how is 'age' declared?\n\nclass Student {\n  public int age;\n}",
     options: [
       "public int age;",
       "private int age;",
-      "final int age;",
-      "static int age;"
+      "protected int age;",
+      "static int age;",
     ],
     correctAnswer: "A",
-    explanation: "class Student { public int age; }",
+    explanation: "class Student { public int age; }.",
     source: "Page 19",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 432,
@@ -6040,12 +6040,12 @@ export const quizData = [
       "It is allowed but wrong, as negative age is invalid.",
       "It is not allowed by compiler.",
       "It sets to positive automatically.",
-      "It causes runtime error."
+      "It causes runtime error.",
     ],
     correctAnswer: "A",
-    explanation: "s.age = -5; // This is allowed, but it's wrong!",
+    explanation: "s.age = -5; // This is allowed, but it's wrong!.",
     source: "Page 19",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 433,
@@ -6054,26 +6054,26 @@ export const quizData = [
       "Dangerous bad data from invalid assignments like negative age.",
       "Automatic validation.",
       "Safe data always.",
-      "No assignments possible."
+      "No assignments possible.",
     ],
     correctAnswer: "A",
     explanation: "Problem: No rule stops us from assigning a negative age. ⚠ This is dangerous and leads to bad data.",
     source: "Page 19",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 434,
-    question: "To protect 'age', what modifier is applied in step 1?",
+    question: "To protect 'age', what modifier is applied in step 1?\n\nclass Student {\n  private int age; // hidden from outside\n}",
     options: [
       "private.",
       "public.",
       "protected.",
-      "static."
+      "static.",
     ],
     correctAnswer: "A",
-    explanation: "private int age; // hidden from outside",
+    explanation: "To protect the age field, we make it private: class Student { private int age; // hidden from outside }.",
     source: "Page 20",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 435,
@@ -6082,12 +6082,12 @@ export const quizData = [
       "ERROR due to private access.",
       "Successful assignment.",
       "Default value set.",
-      "Method call required."
+      "Method call required.",
     ],
     correctAnswer: "A",
-    explanation: "s.age = 20; // ❌ ERROR: age has private access",
+    explanation: "s.age = 20; // ❌ ERROR: age has private access.",
     source: "Page 20",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 436,
@@ -6096,12 +6096,12 @@ export const quizData = [
       "Data hiding.",
       "Method exposure.",
       "Field validation.",
-      "Access granting."
+      "Access granting.",
     ],
     correctAnswer: "A",
-    explanation: "ℹ This is the first step of Encapsulation: data hiding",
+    explanation: "ℹ This is the first step of Encapsulation: data hiding.",
     source: "Page 20",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 437,
@@ -6110,12 +6110,12 @@ export const quizData = [
       "a >= 0.",
       "a < 0.",
       "Always.",
-      "If a == 0."
+      "If a == 0.",
     ],
     correctAnswer: "A",
-    explanation: "if (a >= 0) { age = a; }",
+    explanation: "public void setAge(int a) { if (a >= 0) { age = a; } }.",
     source: "Page 21",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 438,
@@ -6124,12 +6124,12 @@ export const quizData = [
       "private age and public setAge with check.",
       "public age only.",
       "getter included.",
-      "no fields."
+      "no fields.",
     ],
     correctAnswer: "A",
-    explanation: "class Student { private int age; public void setAge(int a) { if (a >= 0) { age = a; } } }",
+    explanation: "class Student { private int age; public void setAge(int a) { if (a >= 0) { age = a; } } }.",
     source: "Page 21",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 439,
@@ -6138,12 +6138,12 @@ export const quizData = [
       "Nothing happens, data stays valid.",
       "Assigns negative.",
       "Throws error.",
-      "Sets to zero."
+      "Sets to zero.",
     ],
     correctAnswer: "A",
-    explanation: "s.setAge(20); // ✅ Safe assignment s.setAge(-5); // ✅ Nothing happens (data stays valid)",
+    explanation: "s.setAge(20); // ✅ Safe assignment s.setAge(-5); // ✅ Nothing happens (data stays valid).",
     source: "Page 21",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 440,
@@ -6152,12 +6152,12 @@ export const quizData = [
       "Returns age value.",
       "Sets age value.",
       "Validates age.",
-      "Hides age."
+      "Hides age.",
     ],
     correctAnswer: "A",
-    explanation: "public int getAge() { return age; }",
+    explanation: "public int getAge() { return age; }.",
     source: "Page 22",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 441,
@@ -6166,12 +6166,12 @@ export const quizData = [
       "private age, setAge with check, getAge return.",
       "public age.",
       "No setter.",
-      "Abstract methods."
+      "Abstract methods.",
     ],
     correctAnswer: "A",
-    explanation: "class Student { private int age; public void setAge(int a) { if (a >= 0) { age = a; } } public int getAge() { return age; } }",
+    explanation: "class Student { private int age; public void setAge(int a) { if (a >= 0) { age = a; } } public int getAge() { return age; } }.",
     source: "Page 22",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 442,
@@ -6180,12 +6180,12 @@ export const quizData = [
       "21.",
       "0.",
       "Error.",
-      "Nothing."
+      "Nothing.",
     ],
     correctAnswer: "A",
-    explanation: "s.setAge(21); System.out.println(s.getAge()); // print value → 21",
+    explanation: "s.setAge(21); // set value System.out.println(s.getAge()); // print value → 21.",
     source: "Page 23",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 443,
@@ -6194,12 +6194,12 @@ export const quizData = [
       "Full control.",
       "No control.",
       "Partial direct access.",
-      "Static control."
+      "Static control.",
     ],
     correctAnswer: "A",
     explanation: "✅ Now we have full control over how the field is accessed.",
     source: "Page 23",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 444,
@@ -6208,12 +6208,12 @@ export const quizData = [
       "private.",
       "public.",
       "protected.",
-      "default."
+      "default.",
     ],
     correctAnswer: "A",
-    explanation: "Use private for all fields",
+    explanation: "Use private for all fields.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 445,
@@ -6222,12 +6222,12 @@ export const quizData = [
       "public methods (getters/setters).",
       "Direct field access.",
       "Static fields.",
-      "Abstract access."
+      "Abstract access.",
     ],
     correctAnswer: "A",
-    explanation: "Use public methods (getters/setters) to access fields safely",
+    explanation: "Use public methods (getters/setters) to access fields safely.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 446,
@@ -6236,12 +6236,12 @@ export const quizData = [
       "In setters.",
       "In getters.",
       "In fields directly.",
-      "Never."
+      "Never.",
     ],
     correctAnswer: "A",
-    explanation: "Add validation in setters when needed",
+    explanation: "Add validation in setters when needed.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 447,
@@ -6250,12 +6250,12 @@ export const quizData = [
       "Creating setters.",
       "Creating getters.",
       "Using private.",
-      "Adding validation."
+      "Adding validation.",
     ],
     correctAnswer: "A",
-    explanation: "Do not create setters for fields that should not change",
+    explanation: "Do not create setters for fields that should not change.",
     source: "Page 24",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 448,
@@ -6264,12 +6264,12 @@ export const quizData = [
       "Hide data from outside.",
       "Allow method access.",
       "Return field value.",
-      "Set with checks."
+      "Set with checks.",
     ],
     correctAnswer: "A",
-    explanation: "private Hides data from outside",
+    explanation: "private Hides data from outside.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 449,
@@ -6278,12 +6278,12 @@ export const quizData = [
       "Access through methods.",
       "Data hiding.",
       "Value return.",
-      "Value setting."
+      "Value setting.",
     ],
     correctAnswer: "A",
-    explanation: "public Allows access through methods",
+    explanation: "public Allows access through methods.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 450,
@@ -6292,12 +6292,12 @@ export const quizData = [
       "Return the value of a field.",
       "Set value with checks.",
       "Hide data.",
-      "Allow access."
+      "Allow access.",
     ],
     correctAnswer: "A",
-    explanation: "getX() Returns the value of a field",
+    explanation: "getX() Returns the value of a field.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 451,
@@ -6306,12 +6306,12 @@ export const quizData = [
       "Set value with optional checks.",
       "Return field value.",
       "Hide from outside.",
-      "Allow direct access."
+      "Allow direct access.",
     ],
     correctAnswer: "A",
-    explanation: "setX() Sets the value with optional checks",
+    explanation: "setX() Sets the value with optional checks.",
     source: "Page 25",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 452,
@@ -6319,27 +6319,27 @@ export const quizData = [
     options: [
       "private String name; private int age;",
       "public String name; public int age;",
-      "protected String name;",
-      "final int age;"
+      "protected String name; protected int age;",
+      "static String name; static int age;",
     ],
     correctAnswer: "A",
-    explanation: "private String name; private int age;",
+    explanation: "private String name; private int age;.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 453,
     question: "In the Student class, setAge assigns only if what?",
     options: [
       "a >= 0.",
-      "Always assigns.",
+      "Always.",
       "a < 0.",
-      "a == age."
+      "a == age.",
     ],
     correctAnswer: "A",
-    explanation: "if (a >= 0) age = a;",
+    explanation: "if (a >= 0) age = a;.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 454,
@@ -6348,12 +6348,12 @@ export const quizData = [
       "private.",
       "public.",
       "protected.",
-      "static."
+      "static.",
     ],
     correctAnswer: "A",
-    explanation: "Fields are private",
+    explanation: "Fields are private.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 455,
@@ -6361,13 +6361,13 @@ export const quizData = [
     options: [
       "How values are assigned and retrieved.",
       "Direct field modification.",
-      "Class instantiation.",
-      "Thread synchronization."
+      "Class extension.",
+      "Thread synchronization.",
     ],
     correctAnswer: "A",
-    explanation: "Methods control how values are assigned and retrieved",
+    explanation: "Methods control how values are assigned and retrieved.",
     source: "Page 26",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 456,
@@ -6376,12 +6376,12 @@ export const quizData = [
       "Direct access.",
       "Using setters.",
       "Using getters.",
-      "Printing values."
+      "Printing values.",
     ],
     correctAnswer: "A",
-    explanation: "External code cannot directly access fields",
+    explanation: "External code cannot directly access fields.",
     source: "Page 27",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 457,
@@ -6390,12 +6390,12 @@ export const quizData = [
       "Controlled methods.",
       "Direct fields.",
       "Constructors only.",
-      "Static variables."
+      "Static variables.",
     ],
     correctAnswer: "A",
-    explanation: "All access is through controlled methods",
+    explanation: "All access is through controlled methods.",
     source: "Page 27",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 458,
@@ -6404,12 +6404,12 @@ export const quizData = [
       "private double balance;",
       "public double balance;",
       "final double balance;",
-      "static double balance;"
+      "static double balance;",
     ],
     correctAnswer: "A",
-    explanation: "private double balance;",
+    explanation: "private double balance;.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 459,
@@ -6418,12 +6418,12 @@ export const quizData = [
       "amount > 0.",
       "amount <= balance.",
       "Always adds.",
-      "amount < 0."
+      "amount < 0.",
     ],
     correctAnswer: "A",
-    explanation: "if (amount > 0) balance += amount;",
+    explanation: "if (amount > 0) balance += amount;.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 460,
@@ -6432,12 +6432,12 @@ export const quizData = [
       "amount > 0 && amount <= balance.",
       "amount > 0 only.",
       "amount <= balance only.",
-      "Always subtracts."
+      "Always subtracts.",
     ],
     correctAnswer: "A",
-    explanation: "if (amount > 0 && amount <= balance) balance -= amount;",
+    explanation: "if (amount > 0 && amount <= balance) balance -= amount;.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 461,
@@ -6446,12 +6446,12 @@ export const quizData = [
       "Business rules.",
       "Direct assignment.",
       "Public access.",
-      "No changes allowed."
+      "No changes allowed.",
     ],
     correctAnswer: "A",
-    explanation: "Balance can only be changed through business rules",
+    explanation: "Balance can only be changed through business rules.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 462,
@@ -6460,12 +6460,12 @@ export const quizData = [
       "Rejected.",
       "Allowed.",
       "Converted to positive.",
-      "Cause error."
+      "Cause error.",
     ],
     correctAnswer: "A",
-    explanation: "Invalid operations (e.g., negative deposit) are rejected",
+    explanation: "Invalid operations (e.g., negative deposit) are rejected.",
     source: "Page 28",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 463,
@@ -6474,12 +6474,12 @@ export const quizData = [
       "Internal state.",
       "External methods.",
       "Balance value.",
-      "Deposit method."
+      "Deposit method.",
     ],
     correctAnswer: "A",
-    explanation: "The internal state is protected",
+    explanation: "The internal state is protected.",
     source: "Page 29",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 464,
@@ -6488,12 +6488,12 @@ export const quizData = [
       "Valid operations.",
       "All operations.",
       "No operations.",
-      "Invalid only."
+      "Invalid only.",
     ],
     correctAnswer: "A",
-    explanation: "Only valid operations are allowed",
+    explanation: "Only valid operations are allowed.",
     source: "Page 29",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 465,
@@ -6502,12 +6502,12 @@ export const quizData = [
       "In constructor once.",
       "In setter.",
       "Directly external.",
-      "In getter."
+      "In getter.",
     ],
     correctAnswer: "A",
-    explanation: "The field name is initialized once in the constructor",
+    explanation: "The field name is initialized once in the constructor.",
     source: "Page 30",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 466,
@@ -6516,12 +6516,12 @@ export const quizData = [
       "Value cannot change later.",
       "Value changes freely.",
       "Multiple initializations.",
-      "External modifications."
+      "External modifications.",
     ],
     correctAnswer: "A",
-    explanation: "No setter means the value cannot be changed later",
+    explanation: "No setter means the value cannot be changed later.",
     source: "Page 30",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 467,
@@ -6530,12 +6530,12 @@ export const quizData = [
       "private and final.",
       "public and modifiable.",
       "protected and static.",
-      "default and volatile."
+      "default and volatile.",
     ],
     correctAnswer: "A",
-    explanation: "Fields are private and final",
+    explanation: "Fields are private and final.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 468,
@@ -6544,12 +6544,12 @@ export const quizData = [
       "Setters.",
       "Getters.",
       "Constructor.",
-      "Fields."
+      "Fields.",
     ],
     correctAnswer: "A",
-    explanation: "No setters are provided",
+    explanation: "No setters are provided.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 469,
@@ -6558,12 +6558,12 @@ export const quizData = [
       "Once via constructor.",
       "Multiple times via setters.",
       "Directly on fields.",
-      "In getters."
+      "In getters.",
     ],
     correctAnswer: "A",
-    explanation: "Values are set once via the constructor",
+    explanation: "Values are set once via the constructor.",
     source: "Page 31",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 470,
@@ -6572,12 +6572,12 @@ export const quizData = [
       "Hide internal fields.",
       "Expose fields.",
       "Define packages.",
-      "Import classes."
+      "Import classes.",
     ],
     correctAnswer: "A",
-    explanation: "Use private to hide internal fields",
+    explanation: "Use private to hide internal fields.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 471,
@@ -6586,12 +6586,12 @@ export const quizData = [
       "Validate and control access.",
       "Direct modifications.",
       "Avoid access.",
-      "Static definitions."
+      "Static definitions.",
     ],
     correctAnswer: "A",
-    explanation: "Use methods to validate and control access",
+    explanation: "Use methods to validate and control access.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 472,
@@ -6600,12 +6600,12 @@ export const quizData = [
       "Read-only.",
       "Modifiable.",
       "Public.",
-      "Static."
+      "Static.",
     ],
     correctAnswer: "A",
-    explanation: "Do not provide setters when fields should be read-only",
+    explanation: "Do not provide setters when fields should be read-only.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 473,
@@ -6614,12 +6614,12 @@ export const quizData = [
       "Full protection.",
       "No protection.",
       "Partial exposure.",
-      "External control."
+      "External control.",
     ],
     correctAnswer: "A",
-    explanation: "Immutable classes ensure full protection of internal state",
+    explanation: "Immutable classes ensure full protection of internal state.",
     source: "Page 32",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 474,
@@ -6628,418 +6628,418 @@ export const quizData = [
       "Namespace.",
       "Class extender.",
       "Method wrapper.",
-      "Field hider."
+      "Field hider.",
     ],
     correctAnswer: "A",
-    explanation: "Apackage is a namespace that organizes a set of related classes and interfaces.",
+    explanation: "A package is a namespace that organizes a set of related classes and interfaces.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 475,
+    question: "What best practice uses private in encapsulation?",
+    options: [
+      "Hide internal fields.",
+      "Expose fields.",
+      "Define packages.",
+      "Import classes.",
+    ],
+    correctAnswer: "A",
+    explanation: "Use private to hide internal fields.",
+    source: "Page 32",
+    topic: "Modifiers & Encapsulation",
+  },
+  {
+    id: 476,
+    question: "What best practice uses methods in encapsulation?",
+    options: [
+      "Validate and control access.",
+      "Direct access.",
+      "Avoid methods.",
+      "Use static only.",
+    ],
+    correctAnswer: "A",
+    explanation: "Use methods to validate and control access.",
+    source: "Page 32",
+    topic: "Modifiers & Encapsulation",
+  },
+  {
+    id: 477,
+    question: "When should setters not be provided?",
+    options: [
+      "When fields should be read-only.",
+      "Always provide setters.",
+      "For public fields.",
+      "For private fields.",
+    ],
+    correctAnswer: "A",
+    explanation: "Do not provide setters when fields should be read-only.",
+    source: "Page 32",
+    topic: "Modifiers & Encapsulation",
+  },
+  {
+    id: 478,
+    question: "What do immutable classes ensure?",
+    options: [
+      "Full protection of internal state.",
+      "Partial protection.",
+      "No protection.",
+      "External changes.",
+    ],
+    correctAnswer: "A",
+    explanation: "Immutable classes ensure full protection of internal state.",
+    source: "Page 32",
+    topic: "Modifiers & Encapsulation",
+  },
+  {
+    id: 479,
+    question: "A Java package acts as what for organizing classes/interfaces?",
+    options: [
+      "Namespace.",
+      "Class extender.",
+      "Method wrapper.",
+      "Field hider.",
+    ],
+    correctAnswer: "A",
+    explanation: "A package is a namespace that organizes a set of related classes and interfaces.",
+    source: "Page 33",
+    topic: "Modifiers & Encapsulation",
+  },
+  {
+    id: 480,
     question: "Packages help prevent what with class names?",
     options: [
       "Conflicts.",
       "Grouping.",
       "Maintenance.",
-      "Access."
+      "Access.",
     ],
     correctAnswer: "A",
-    explanation: "Prevents class name conflicts",
+    explanation: "Prevents class name conflicts.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 476,
+    id: 481,
     question: "What do packages do with similar classes?",
     options: [
       "Group them together.",
       "Separate them.",
       "Delete duplicates.",
-      "Make abstract."
+      "Make abstract.",
     ],
     correctAnswer: "A",
-    explanation: "Groups similar classes together",
+    explanation: "Groups similar classes together.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 477,
+    id: 482,
     question: "Packages aid in maintaining what scale of projects?",
     options: [
       "Large projects.",
       "Small only.",
       "No projects.",
-      "Medium only."
+      "Medium only.",
     ],
     correctAnswer: "A",
-    explanation: "Helps maintain large projects",
+    explanation: "Helps maintain large projects.",
     source: "Page 33",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 478,
+    id: 483,
     question: "Package declaration appears where in .java file?",
     options: [
       "At the top.",
       "At bottom.",
       "In class.",
-      "In main."
+      "In main.",
     ],
     correctAnswer: "A",
-    explanation: "At the top of your .java file, declare the package:",
+    explanation: "At the top of your .java file, declare the package:.",
     source: "Page 34",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 479,
+    id: 484,
     question: "What is an example of package declaration?",
     options: [
       "package myschool.student;",
       "import myschool.student;",
       "class myschool.student;",
-      "public myschool.student;"
+      "public myschool.student;",
     ],
     correctAnswer: "A",
-    explanation: "package myschool.student;",
+    explanation: "package myschool.student;.",
     source: "Page 34",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 480,
+    id: 485,
     question: "To use a class from another package, what statement?",
     options: [
       "import myschool.student.Student;",
-      "package myschool.student.Student;",
-      "extend myschool.student.Student;",
-      "new myschool.student.Student;"
+      "package myschool.student;",
+      "extend myschool.student;",
+      "new myschool.student;",
     ],
     correctAnswer: "A",
-    explanation: "import myschool.student.Student;",
+    explanation: "import myschool.student.Student;.",
     source: "Page 34",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 481,
+    id: 486,
     question: "java.lang package offers what and import status?",
     options: [
       "Core features, automatically imported.",
       "Data structures, manual import.",
       "IO, manual.",
-      "Date time, auto."
+      "Date time, auto.",
     ],
     correctAnswer: "A",
-    explanation: "java.lang – core language features (automatically imported)",
+    explanation: "java.lang – core language features (automatically imported).",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 482,
+    id: 487,
     question: "What does java.util provide?",
     options: [
       "Data structures and utilities.",
       "Core features.",
       "Input output.",
-      "Math operations."
+      "Math operations.",
     ],
     correctAnswer: "A",
-    explanation: "java.util – data structures and utilities",
+    explanation: "java.util – data structures and utilities.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 483,
+    id: 488,
     question: "java.io is for what?",
     options: [
       "Input/output.",
       "Date and time.",
       "Math.",
-      "Core."
+      "Core.",
     ],
     correctAnswer: "A",
-    explanation: "java.io – input/output",
+    explanation: "java.io – input/output.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 484,
+    id: 489,
     question: "java.time handles what?",
     options: [
       "Date and time.",
       "Math operations.",
       "IO.",
-      "Utilities."
+      "Utilities.",
     ],
     correctAnswer: "A",
-    explanation: "java.time – date and time",
+    explanation: "java.time – date and time.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 485,
+    id: 490,
     question: "What is java.math for?",
     options: [
       "Mathematical operations.",
       "Date time.",
       "Core features.",
-      "Data structures."
+      "Data structures.",
     ],
     correctAnswer: "A",
-    explanation: "java.math – mathematical operations",
+    explanation: "java.math – mathematical operations.",
     source: "Page 35",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 486,
+    id: 491,
     question: "What import is used for Scanner in the example?",
     options: [
       "import java.util.Scanner;",
       "import java.lang.Scanner;",
       "import java.io.Scanner;",
-      "No import needed."
+      "No import needed.",
     ],
     correctAnswer: "A",
-    explanation: "import java.util.Scanner;",
+    explanation: "import java.util.Scanner;.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 487,
+    id: 492,
     question: "Scanner in the code reads what?",
     options: [
       "Input from System.in, like nextLine().",
       "Output to console.",
       "Math calculations.",
-      "File handling."
+      "File handling.",
     ],
     correctAnswer: "A",
-    explanation: "Scanner sc = new Scanner(System.in); String name = sc.nextLine();",
+    explanation: "Scanner sc = new Scanner(System.in); String name = sc.nextLine();.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 488,
+    id: 493,
     question: "Scanner belongs to which package?",
     options: [
       "java.util.",
       "java.lang.",
       "java.io.",
-      "java.math."
+      "java.math.",
     ],
     correctAnswer: "A",
-    explanation: "Scanner is part of the java.util package",
+    explanation: "Scanner is part of the java.util package.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 489,
+    id: 494,
     question: "Importing Scanner allows what in the program?",
     options: [
       "Use in the code.",
       "Hiding Scanner.",
       "Deleting class.",
-      "Making private."
+      "Making private.",
     ],
     correctAnswer: "A",
-    explanation: "We import it to use in our program",
+    explanation: "We import it to use in our program.",
     source: "Page 36",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 490,
+    id: 495,
     question: "Public allows access from same and different packages how?",
     options: [
       "Yes from both.",
       "Yes same, no different.",
       "No both.",
-      "Yes same, yes if subclass different."
+      "Yes same, yes if subclass different.",
     ],
     correctAnswer: "A",
-    explanation: "public ✅ ✅",
+    explanation: "public ✅ ✅.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 491,
+    id: 496,
     question: "Protected permits access from same package and different how?",
     options: [
       "Yes same, yes if subclass different.",
       "Yes both.",
       "Yes same, no different.",
-      "No both."
+      "No both.",
     ],
     correctAnswer: "A",
-    explanation: "protected ✅ ✅ (ifsubclass)",
+    explanation: "protected ✅ ✅ (if subclass).",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 492,
+    id: 497,
     question: "Default allows access from same and different packages how?",
     options: [
       "Yes same, no different.",
       "Yes both.",
       "No both.",
-      "Yes same, yes subclass."
+      "Yes same, yes subclass.",
     ],
     correctAnswer: "A",
-    explanation: "default ✅ ❌",
+    explanation: "default ✅ ❌.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 493,
+    id: 498,
     question: "Private restricts access from same and different to what?",
     options: [
       "No from both.",
       "Yes both.",
       "Yes same, no different.",
-      "Yes same, yes subclass."
+      "Yes same, yes subclass.",
     ],
     correctAnswer: "A",
-    explanation: "private ❌ ❌",
+    explanation: "private ❌ ❌.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 494,
+    id: 499,
     question: "Packages combine with what to control visibility across files?",
     options: [
       "Access modifiers.",
       "Classes.",
       "Methods.",
-      "Fields."
+      "Fields.",
     ],
     correctAnswer: "A",
-    explanation: "Key Point: Packages work with access modifiers to control visibility across files",
+    explanation: "Key Point: Packages work with access modifiers to control visibility across files.",
     source: "Page 37",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 495,
+    id: 500,
     question: "Java API is a collection of what provided by the platform?",
     options: [
       "Prewritten classes.",
       "User classes.",
       "Modifiers only.",
-      "Packages only."
+      "Packages only.",
     ],
     correctAnswer: "A",
     explanation: "The Java API is a collection of prewritten classes provided by the Java platform.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 496,
+    id: 501,
     question: "API includes classes for what examples?",
     options: [
       "Strings, files, networking, collections, etc.",
       "Only modifiers.",
       "Only access control.",
-      "Only encapsulation."
+      "Only encapsulation.",
     ],
     correctAnswer: "A",
     explanation: "Includes classes for strings, files, networking, collections, etc.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 497,
+    id: 502,
     question: "API saves time by avoiding what?",
     options: [
       "Reinventing the wheel.",
       "Using imports.",
       "Defining classes.",
-      "Writing code."
+      "Writing code.",
     ],
     correctAnswer: "A",
-    explanation: "Saves time – no need to reinvent the wheel",
+    explanation: "Saves time – no need to reinvent the wheel.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
-    id: 498,
+    id: 503,
     question: "How is the API documented?",
     options: [
       "Well-documented with examples.",
       "No documentation.",
       "Poorly.",
-      "Examples only."
+      "Examples only.",
     ],
     correctAnswer: "A",
-    explanation: "Well-documented with examples",
+    explanation: "Well-documented with examples.",
     source: "Page 38",
-    topic: "Modifiers & Encapsulation"
-  },
-  {
-    id: 499,
-    question: "To use API classes, what is the first guideline?",
-    options: [
-      "Use import to bring in classes.",
-      "Use package define.",
-      "Extend classes.",
-      "New instances only."
-    ],
-    correctAnswer: "A",
-    explanation: "Use import to bring in classes",
-    source: "Page 39",
-    topic: "Modifiers & Encapsulation"
-  },
-  {
-    id: 500,
-    question: "Where to look up Java API docs?",
-    options: [
-      "https://docs.oracle.com/en/java/javase/",
-      "Local help.",
-      "No location.",
-      "In code comments."
-    ],
-    correctAnswer: "A",
-    explanation: "Look up documentation at: https://docs.oracle.com/en/java/javase/",
-    source: "Page 39",
-    topic: "Modifiers & Encapsulation"
-  },
-  {
-    id: 501,
-    question: "Math class is from what package and import?",
-    options: [
-      "java.lang, auto-imported.",
-      "java.util, manual.",
-      "java.math, required.",
-      "java.io, auto."
-    ],
-    correctAnswer: "A",
-    explanation: "Using Math class from java.lang (auto-imported):",
-    source: "Page 39",
-    topic: "Modifiers & Encapsulation"
-  },
-  {
-    id: 502,
-    question: "What import for ArrayList in demo?",
-    options: [
-      "import java.util.ArrayList;",
-      "import java.lang.ArrayList;",
-      "import java.math.ArrayList;",
-      "No import."
-    ],
-    correctAnswer: "A",
-    explanation: "import java.util.ArrayList;",
-    source: "Page 40",
-    topic: "Modifiers & Encapsulation"
-  },
-  {
-    id: 503,
-    question: "In demo, ArrayList adds what items?",
-    options: [
-      "\"Java\" and \"OOP\".",
-      "Numbers.",
-      "Removes items.",
-      "Calculates."
-    ],
-    correctAnswer: "A",
-    explanation: "list.add(\"Java\"); list.add(\"OOP\");",
-    source: "Page 40",
-    topic: "Modifiers & Encapsulation"
+    topic: "Modifiers & Encapsulation",
   },
   {
     id: 504,
@@ -7053,7 +7053,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Inheritance is a mechanism that allows one class to inherit fields and methods from another class.",
     source: "Page 2",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 505,
@@ -7067,7 +7067,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Superclass: the parent class containing common properties and methods.",
     source: "Page 2",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 506,
@@ -7081,7 +7081,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Subclass: the child class that extends and adds to the parent class.",
     source: "Page 2",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 507,
@@ -7095,7 +7095,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "In Java, inheritance is implemented using the extends keyword.",
     source: "Page 2",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 508,
@@ -7109,7 +7109,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { void speak() { System.out.println(\"Animal sound\"); } }",
     source: "Page 3",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 509,
@@ -7123,7 +7123,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { void bark() { System.out.println(\"Woof!\"); } }",
     source: "Page 3",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 510,
@@ -7137,7 +7137,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Dog d = new Dog(); d.speak(); // Inherited from Animal d.bark(); // Defined in Dog",
     source: "Page 3",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 511,
@@ -7151,7 +7151,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Used to access the constructor or methods of the superclass.",
     source: "Page 4",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 512,
@@ -7165,7 +7165,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { String name; Animal(String name) { this.name = name; } }",
     source: "Page 4",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 513,
@@ -7179,7 +7179,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { Dog(String name) { super(name); // Calls the superclass constructor } }",
     source: "Page 4",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 514,
@@ -7193,7 +7193,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding allows a subclass to provide a different implementation for a method defined in the superclass",
     source: "Page 5",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 515,
@@ -7207,7 +7207,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { void speak() { System.out.println(\"Animal sound\"); } }",
     source: "Page 5",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 516,
@@ -7221,7 +7221,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { @Override void speak() { System.out.println(\"Woof!\"); } }",
     source: "Page 5",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 517,
@@ -7235,7 +7235,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Modifier Inherited? Accessible from subclass?",
     source: "Page 6",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 518,
@@ -7249,7 +7249,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "private No No",
     source: "Page 6",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 519,
@@ -7263,7 +7263,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "(default) Yes (same package) Yes (same package)",
     source: "Page 6",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 520,
@@ -7277,7 +7277,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "protected Yes Yes",
     source: "Page 6",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 521,
@@ -7291,7 +7291,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "public Yes Yes",
     source: "Page 6",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 522,
@@ -7305,7 +7305,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "final class: cannot be extended.",
     source: "Page 7",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 523,
@@ -7319,7 +7319,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "final method: cannot be overridden.",
     source: "Page 7",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 524,
@@ -7333,7 +7333,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "final variable: value cannot be changed after assignment.",
     source: "Page 7",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 525,
@@ -7347,7 +7347,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Java does not support multiple inheritance using classes. In Java, a class cannot extend more than one class.",
     source: "Page 8",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 526,
@@ -7361,7 +7361,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This restriction exists to avoid ambiguity, especially in cases where two superclasses define the same method or field.",
     source: "Page 8",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 527,
@@ -7375,7 +7375,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A{ void print() { System.out.println(\"From A\"); } }",
     source: "Page 9",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 528,
@@ -7389,7 +7389,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B { void print() { System.out.println(\"From B\"); } }",
     source: "Page 9",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 529,
@@ -7403,7 +7403,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "// Not allowed in Java class C extends A, B { // Which print() should C inherit? }",
     source: "Page 9",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 530,
@@ -7417,7 +7417,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Java disallows this to avoid the diamond problem and keep the class hierarchy simple and predictable.",
     source: "Page 9",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 531,
@@ -7431,7 +7431,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Java supports multiple inheritance of behavior using interfaces. Java allows a class to implement multiple interfaces.",
     source: "Page 10",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 532,
@@ -7445,7 +7445,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Interfaces contain only method declarations (no conflict of implementation).",
     source: "Page 10",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 533,
@@ -7459,7 +7459,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The class must provide its own implementation, so ambiguity is avoided.",
     source: "Page 10",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 534,
@@ -7473,7 +7473,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "interface Flyable { void fly(); }",
     source: "Page 11",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 535,
@@ -7487,7 +7487,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "interface Swimmable { void swim(); }",
     source: "Page 11",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 536,
@@ -7501,7 +7501,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Duck implements Flyable, Swimmable { public void fly() { System.out.println(\"Duck flies\"); } public void swim() { System.out.println(\"Duck swims\"); } }",
     source: "Page 11",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 537,
@@ -7515,7 +7515,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This is a safe and flexible way to achieve multiple inheritance of behavior in Java.",
     source: "Page 11",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 538,
@@ -7529,7 +7529,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Multiple inheritance of classes No Not allowed (extends only one class)",
     source: "Page 12",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 539,
@@ -7543,7 +7543,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Multiple inheritance of behavior Yes Using interface",
     source: "Page 12",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 540,
@@ -7557,7 +7557,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Constructors and Inheritance in Java",
     source: "Page 13",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 541,
@@ -7571,7 +7571,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "In Java, constructors are not inherited by subclasses.",
     source: "Page 14",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 542,
@@ -7585,7 +7585,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Asubclass must call a constructor of its superclass.",
     source: "Page 14",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 543,
@@ -7599,7 +7599,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The call is made using the keyword super(...).",
     source: "Page 14",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 544,
@@ -7613,7 +7613,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If you don't call super(...), Java attempts to insert a no-argument super() automatically.",
     source: "Page 14",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 545,
@@ -7627,7 +7627,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This only works if the superclass has a no-arg constructor.",
     source: "Page 14",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 546,
@@ -7641,7 +7641,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "super(...) must be the first statement in a subclass constructor.",
     source: "Page 15",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 547,
@@ -7655,7 +7655,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "You must call super(...) explicitly if the superclass does not have a no-argument constructor.",
     source: "Page 15",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 548,
@@ -7669,7 +7669,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Person { Person(String name) { System.out.println(\"Hello, \" + name); } }",
     source: "Page 15",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 549,
@@ -7683,7 +7683,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Student extends Person { Student(String name) { super(name); // Required, no default constructor in Person } }",
     source: "Page 15",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 550,
@@ -7697,7 +7697,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If the superclass has a no-arg constructor, Java inserts super() by default.",
     source: "Page 16",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 551,
@@ -7711,7 +7711,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If not, and you omit super(...), a compile-time error will occur.",
     source: "Page 16",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 552,
@@ -7725,7 +7725,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Person { Person(String name) {} }",
     source: "Page 16",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 553,
@@ -7739,7 +7739,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Student extends Person { Student() { // Compile-time error: constructor Person() is undefined } }",
     source: "Page 16",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 554,
@@ -7753,7 +7753,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If the superclass defines a no-argument constructor, the subclass is not required to call super() explicitly. Java will automatically insert super() at the beginning of the subclass constructor.",
     source: "Page 17",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 555,
@@ -7767,7 +7767,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { Animal() { System.out.println(\"Animal created\"); } }",
     source: "Page 17",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 556,
@@ -7781,7 +7781,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { Dog() { System.out.println(\"Dog created\"); } }",
     source: "Page 17",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 557,
@@ -7795,7 +7795,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Keyword Description",
     source: "Page 18",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 558,
@@ -7809,7 +7809,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "super(...) Calls a constructor from the superclass",
     source: "Page 18",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 559,
@@ -7823,7 +7823,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "this(...) Calls another constructor in the same class",
     source: "Page 18",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 560,
@@ -7837,7 +7837,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Only one constructor call is allowed in a constructor, and it must be the first statement.",
     source: "Page 18",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 561,
@@ -7851,7 +7851,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "You cannot use super(...) and this(...) together in the same constructor.",
     source: "Page 18",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 562,
@@ -7865,7 +7865,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { Animal(String name) { System.out.println(\"Animal: \" + name); } }",
     source: "Page 19",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 563,
@@ -7879,7 +7879,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { Dog() { super(\"Dog\"); System.out.println(\"Dog created\"); } }",
     source: "Page 19",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 564,
@@ -7893,7 +7893,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Output: makefile Animal: Dog Dog created",
     source: "Page 19",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 565,
@@ -7907,7 +7907,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Constructors are not inherited, so they cannot be overridden.",
     source: "Page 20",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 566,
@@ -7921,7 +7921,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Even if parameter lists are the same, subclass constructors are separate.",
     source: "Page 20",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 567,
@@ -7935,7 +7935,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "No @Override allowed.",
     source: "Page 20",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 568,
@@ -7949,7 +7949,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Person { Person(String name) { System.out.println(\"Person: \" + name); } }",
     source: "Page 20",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 569,
@@ -7963,7 +7963,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Student extends Person { Student(String name) { // Not an override super(name); // Call superclass constructor System.out.println(\"Student: \" + name); } }",
     source: "Page 20",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 570,
@@ -7977,7 +7977,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Using @Override here would cause a compile-time error.",
     source: "Page 20",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 571,
@@ -7991,7 +7991,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Subclass constructors can use different parameters.",
     source: "Page 21",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 572,
@@ -8005,7 +8005,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Still, they must explicitly call one superclass constructor.",
     source: "Page 21",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 573,
@@ -8019,7 +8019,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Person { Person(String name) { System.out.println(\"Person: \" + name); } }",
     source: "Page 21",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 574,
@@ -8033,7 +8033,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Student extends Person { Student(String name, int age) { super(name); // Call Person(String) System.out.println(\"Age: \" + age); } }",
     source: "Page 21",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 575,
@@ -8047,7 +8047,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Even with different parameters, super(...) is required unless the superclass has a no-arg constructor.",
     source: "Page 21",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 576,
@@ -8061,7 +8061,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Constructors cannot be overridden —do not use @Override.",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 577,
@@ -8075,7 +8075,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If superclass has no default constructor, super(...) is required.",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 578,
@@ -8089,7 +8089,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "super(...) must be the first line.",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 579,
@@ -8103,7 +8103,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Do not mix super(...) and this(...).",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 580,
@@ -8117,7 +8117,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Person { Person(String name) {} }",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 581,
@@ -8131,7 +8131,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Student extends Person { Student() { // Error: no matching Person() // Java inserts super(), but Person has no no-arg constructor } }",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 582,
@@ -8145,7 +8145,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Avoid this mistake by explicitly calling super(name) if needed.",
     source: "Page 22",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 583,
@@ -8159,7 +8159,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "When a subclass overrides a method from its superclass, it can still call the original method using super.methodName().",
     source: "Page 23",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 584,
@@ -8173,7 +8173,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { void speak() { System.out.println(\"Animal sound\"); } }",
     source: "Page 23",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 585,
@@ -8187,7 +8187,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { void speak() { super.speak(); // call the superclass version System.out.println(\"Dog barks\"); } }",
     source: "Page 23",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 586,
@@ -8201,7 +8201,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Output: nginx Animal sound Dog barks",
     source: "Page 23",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 587,
@@ -8215,7 +8215,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To reuse logic from the superclass instead of duplicating it.",
     source: "Page 24",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 588,
@@ -8229,7 +8229,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To extend rather than completely replace behavior.",
     source: "Page 24",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 589,
@@ -8243,7 +8243,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Common in UI code, logging, validation, etc.",
     source: "Page 24",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 590,
@@ -8257,7 +8257,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Logger { void log(String msg) { System.out.println(\"LOG: \" + msg); } }",
     source: "Page 24",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 591,
@@ -8271,7 +8271,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class FileLogger extends Logger { void log(String msg) { super.log(msg); // Log to console System.out.println(\"Write to file\"); // Add new behavior } }",
     source: "Page 24",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 592,
@@ -8285,7 +8285,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Avoid rewriting everything —call super.method() first, then add what's new.",
     source: "Page 24",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 593,
@@ -8299,7 +8299,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Keyword Meaning Used for",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 594,
@@ -8313,7 +8313,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "this Current class reference Call current method or constructor",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 595,
@@ -8327,7 +8327,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "super Immediate superclass reference Call superclass method or constructor",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 596,
@@ -8341,7 +8341,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "In an overridden method, super.method() accesses the original version, while this.method() calls the current (possibly overridden) one.",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 597,
@@ -8355,7 +8355,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "super.toString(); // Call parent's toString",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 598,
@@ -8369,7 +8369,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "this.toString(); // Call current class's version (if overridden)",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 599,
@@ -8383,7 +8383,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Use super when you want to intentionally bypass the overridden method in the subclass.",
     source: "Page 25",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 600,
@@ -8397,7 +8397,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If a subclass declares a field with the same name as one in the superclass, the subclass field shadows the superclass field.",
     source: "Page 26",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 601,
@@ -8411,7 +8411,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To access the shadowed field, use super.fieldName.",
     source: "Page 26",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 602,
@@ -8425,7 +8425,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Animal { String name = \"Generic Animal\"; }",
     source: "Page 26",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 603,
@@ -8439,7 +8439,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Dog extends Animal { String name = \"Dog\"; void printNames() { System.out.println(name); // Accesses Dog's name System.out.println(super.name); // Accesses Animal's name } }",
     source: "Page 26",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 604,
@@ -8453,7 +8453,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Output: Dog Generic Animal",
     source: "Page 26",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 605,
@@ -8467,7 +8467,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The subclass name hides the superclass name. Using super.name allows access to the hidden field in the superclass.",
     source: "Page 26",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 606,
@@ -8481,7 +8481,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "When subclass fields have the same name as superclass fields: It becomes harder to track which variable is used.",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 607,
@@ -8495,7 +8495,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "this.field and super.field refer to different values.",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 608,
@@ -8509,7 +8509,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Method behavior may depend on reference type, but field access depends on declared type.",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 609,
@@ -8523,7 +8523,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A{ int x = 10; }",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 610,
@@ -8537,7 +8537,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { int x = 20; }",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 611,
@@ -8551,7 +8551,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Aobj = new B(); System.out.println(obj.x); // Prints 10 - uses A's field, not B's",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 612,
@@ -8565,7 +8565,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Even though obj refers to a B, the field x is resolved at compile-time using the declared type (A), not the runtime type.",
     source: "Page 27",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 613,
@@ -8579,7 +8579,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Avoid reusing field names from superclass unless necessary.",
     source: "Page 28",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 614,
@@ -8593,7 +8593,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Prefer method overriding when you want polymorphic behavior.",
     source: "Page 28",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 615,
@@ -8607,7 +8607,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Use super.field only when you need to explicitly access hidden state from the parent.",
     source: "Page 28",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 616,
@@ -8621,7 +8621,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Example - Instead of this: class B extends A { int value; // shadows A.value }",
     source: "Page 28",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 617,
@@ -8635,7 +8635,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Prefer this: class B extends A{ int bonus; // different field name, no confusion }",
     source: "Page 28",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 618,
@@ -8649,7 +8649,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Keeping field names distinct across the class hierarchy improves code clarity and maintainability.",
     source: "Page 28",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 619,
@@ -8663,7 +8663,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Method Overriding in Java",
     source: "Page 29",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 620,
@@ -8677,7 +8677,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To customize behavior in a subclass.",
     source: "Page 30",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 621,
@@ -8691,7 +8691,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To support runtime polymorphism.",
     source: "Page 30",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 622,
@@ -8705,7 +8705,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To keep a consistent interface while allowing different behavior.",
     source: "Page 30",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 623,
@@ -8719,7 +8719,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Animal a = new Dog(); a.speak(); // Outputs: Dog barks",
     source: "Page 30",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 624,
@@ -8733,7 +8733,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The method called depends on the actual object (Dog), not the variable type (Animal).",
     source: "Page 30",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 625,
@@ -8747,7 +8747,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "To override a method correctly, all these conditions must be met: The method must exist in the superclass.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 626,
@@ -8761,7 +8761,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The subclass method must have: The same method name.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 627,
@@ -8775,7 +8775,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The same parameter list.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 628,
@@ -8787,9 +8787,9 @@ export const quizData = [
       "Void only."
     ],
     correctAnswer: "A",
-    explanation: "Areturn type that is the same or a subtype (covariant return).",
+    explanation: "A return type that is the same or a subtype (covariant return).",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 629,
@@ -8803,7 +8803,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Access modifier must be equal or more accessible.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 630,
@@ -8817,7 +8817,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The method must not be private, static, or final in the superclass.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 631,
@@ -8831,7 +8831,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Must be inside a subclass, not the same class.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 632,
@@ -8845,7 +8845,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Use @Override to catch mistakes at compile time.",
     source: "Page 31",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 633,
@@ -8859,7 +8859,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "public public only Cannot reduce visibility",
     source: "Page 32",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 634,
@@ -8873,7 +8873,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "protected protected, public Subclass can widen visibility",
     source: "Page 32",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 635,
@@ -8887,7 +8887,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "(default) (package-private) (default), protected, public Only if in the same package",
     source: "Page 32",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 636,
@@ -8901,7 +8901,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "private ❌ Not inherited Cannot override a private method",
     source: "Page 32",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 637,
@@ -8915,7 +8915,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If you make the overridden method less accessible (e.g., from public to protected), the code will not compile.",
     source: "Page 33",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 638,
@@ -8929,7 +8929,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A{ public void show() {} }",
     source: "Page 33",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 639,
@@ -8943,7 +8943,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { @Override protected void show() {} // Error: cannot reduce visibility }",
     source: "Page 33",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 640,
@@ -8957,7 +8957,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "For primitive types, the return type must be exactly the same.",
     source: "Page 34",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 641,
@@ -8971,7 +8971,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "For object types, the return type in the subclass can be a subclass of the original (called covariant return).",
     source: "Page 34",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 642,
@@ -8985,7 +8985,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { A get() { return this; } }",
     source: "Page 34",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 643,
@@ -8999,7 +8999,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { @Override B get() { return this; } // OK: B is a subclass of A }",
     source: "Page 34",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 644,
@@ -9013,7 +9013,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "static ❌ Method hiding, not overriding",
     source: "Page 35",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 645,
@@ -9027,7 +9027,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "private ❌ Not inherited at all",
     source: "Page 35",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 646,
@@ -9041,7 +9041,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "final ❌ Compiler error if overridden",
     source: "Page 35",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 647,
@@ -9055,7 +9055,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Trying to override these will result in a compile-time error.",
     source: "Page 35",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 648,
@@ -9069,7 +9069,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "In Java, static methods belong to the class, not to instances.",
     source: "Page 36",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 649,
@@ -9083,7 +9083,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "So when you declare a static method in a subclass with the same name as in the superclass, it's called method hiding, not overriding.",
     source: "Page 36",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 650,
@@ -9097,7 +9097,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { static void greet() { System.out.println(\"Hello from A\"); } }",
     source: "Page 36",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 651,
@@ -9111,7 +9111,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { static void greet() { System.out.println(\"Hello from B\"); } }",
     source: "Page 36",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 652,
@@ -9125,7 +9125,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Aobj = new B(); obj.greet(); // Output: Hello from A",
     source: "Page 36",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 653,
@@ -9139,7 +9139,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Although obj refers to a B, the method greet() is resolved at compile time using the reference type (A), because it's static.",
     source: "Page 36",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 654,
@@ -9153,7 +9153,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding applies to instance methods.",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 655,
@@ -9167,7 +9167,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Hiding applies to static methods with the same name in a subclass.",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 656,
@@ -9181,7 +9181,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The key difference is when and how the method is resolved.",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 657,
@@ -9195,7 +9195,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { void greet() { System.out.println(\"A\"); } } class B extends A { @Override void greet() { System.out.println(\"B\"); } } A obj = new B(); obj.greet(); // Output: B",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 658,
@@ -9209,7 +9209,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Method is resolved at runtime using the actual object type.",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 659,
@@ -9223,7 +9223,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { static void greet() { System.out.println(\"A\"); } } class B extends A { static void greet() { System.out.println(\"B\"); } } A obj = new B(); obj.greet(); // Output: A",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 660,
@@ -9237,7 +9237,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Static method is resolved at compile time using the reference type.",
     source: "Page 37",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 661,
@@ -9251,7 +9251,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding: Instance methods",
     source: "Page 38",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 662,
@@ -9265,7 +9265,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding: Resolved at Runtime",
     source: "Page 38",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 663,
@@ -9279,7 +9279,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding: Reference type used? No",
     source: "Page 38",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 664,
@@ -9293,7 +9293,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding: Polymorphism Supported",
     source: "Page 38",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 665,
@@ -9307,7 +9307,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding: @Override allowed? Yes",
     source: "Page 38",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 666,
@@ -9321,7 +9321,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Private methods are not inherited by subclasses.",
     source: "Page 39",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 667,
@@ -9335,7 +9335,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "They are not visible outside their own class, so they cannot be overridden.",
     source: "Page 39",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 668,
@@ -9349,7 +9349,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { private void secret() { System.out.println(\"A\"); } }",
     source: "Page 39",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 669,
@@ -9363,7 +9363,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { void secret() { System.out.println(\"B\"); } }",
     source: "Page 39",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 670,
@@ -9377,7 +9377,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "B obj = new B(); obj.secret(); // Output: B",
     source: "Page 39",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 671,
@@ -9391,7 +9391,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This is not overriding. B.secret() is a new, unrelated method.",
     source: "Page 39",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 672,
@@ -9403,9 +9403,9 @@ export const quizData = [
       "If private."
     ],
     correctAnswer: "A",
-    explanation: "Amethod marked final cannot be overridden in a subclass.",
+    explanation: "A method marked final cannot be overridden in a subclass.",
     source: "Page 40",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 673,
@@ -9419,7 +9419,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Trying to do so causes a compile-time error.",
     source: "Page 40",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 674,
@@ -9433,7 +9433,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { final void show() { System.out.println(\"A\"); } }",
     source: "Page 40",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 675,
@@ -9447,7 +9447,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { // Compile-time error void show() { System.out.println(\"B\"); } }",
     source: "Page 40",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 676,
@@ -9459,9 +9459,9 @@ export const quizData = [
       "\"Signature mismatch\""
     ],
     correctAnswer: "A",
-    explanation: "Compiler error: \"Cannot override the final method from A.\"",
+    explanation: "\"Cannot override the final method from A.\"",
     source: "Page 40",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 677,
@@ -9475,7 +9475,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Always use @Override when overriding a method.",
     source: "Page 41",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 678,
@@ -9489,7 +9489,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Helps catch mistakes (wrong parameters, typo in name).",
     source: "Page 41",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 679,
@@ -9503,7 +9503,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If the method is not actually overriding, the compiler shows an error.",
     source: "Page 41",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 680,
@@ -9517,7 +9517,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { void show(int x) { } }",
     source: "Page 41",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 681,
@@ -9531,7 +9531,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { @Override void show(double x) { } // Compile error: not overriding (different parameter) }",
     source: "Page 41",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 682,
@@ -9545,7 +9545,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "If @Override is missing, Java won't detect signature mistakes.",
     source: "Page 42",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 683,
@@ -9559,7 +9559,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This can lead to methods that are intended to override, but don't.",
     source: "Page 42",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 684,
@@ -9573,7 +9573,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { void setName(String name) { } }",
     source: "Page 42",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 685,
@@ -9587,7 +9587,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { void setName(double name) { } // Not overriding }",
     source: "Page 42",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 686,
@@ -9601,7 +9601,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Java compiles this without error, but setName(double) is a new method, not an override.",
     source: "Page 42",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 687,
@@ -9615,7 +9615,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Using @Override here would cause a compile-time error, which helps catch the mistake.",
     source: "Page 42",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 688,
@@ -9629,7 +9629,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Overriding requires the exact same method name and parameter list.",
     source: "Page 43",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 689,
@@ -9643,7 +9643,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Changing parameter type creates an overloaded method, not an override.",
     source: "Page 43",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 690,
@@ -9657,7 +9657,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { void show(int x) { System.out.println(\"A\"); } }",
     source: "Page 43",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 691,
@@ -9671,7 +9671,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { void show(double x) { System.out.println(\"B\"); } }",
     source: "Page 43",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 692,
@@ -9685,7 +9685,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "B obj = new B(); obj.show(5); // Output: A-- no override",
     source: "Page 43",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 693,
@@ -9699,7 +9699,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This does not override A.show(int). The method in B has a different signature.",
     source: "Page 43",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 694,
@@ -9713,7 +9713,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The return type in an overridden method must be the same or a subtype (covariant return).",
     source: "Page 44",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 695,
@@ -9727,7 +9727,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Using an incompatible return type causes a compile error.",
     source: "Page 44",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 696,
@@ -9741,7 +9741,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { String getName() { return \"A\"; } }",
     source: "Page 44",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 697,
@@ -9755,7 +9755,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class B extends A { // Compile-time error int getName() { return 1; } }",
     source: "Page 44",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 698,
@@ -9767,9 +9767,9 @@ export const quizData = [
       "\"Signature mismatch\""
     ],
     correctAnswer: "A",
-    explanation: "Error: \"getName() in B cannot override getName() in A—return type is incompatible.\"",
+    explanation: "\"getName() in B cannot override getName() in A — return type is incompatible.\"",
     source: "Page 44",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 699,
@@ -9783,7 +9783,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Always match parameters exactly.",
     source: "Page 45",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 700,
@@ -9797,7 +9797,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Use @Override to prevent silent errors.",
     source: "Page 45",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 701,
@@ -9811,7 +9811,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Avoid changing access level to more restrictive.",
     source: "Page 45",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 702,
@@ -9825,7 +9825,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Be clear about behavior: override to specialize, not to confuse.",
     source: "Page 45",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 703,
@@ -9839,7 +9839,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Consider calling super.method() when you want to reuse original behavior.",
     source: "Page 45",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 704,
@@ -9853,7 +9853,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "More about Java Inheritance",
     source: "Page 46",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 705,
@@ -9867,7 +9867,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Java supports multilevel inheritance: a class can inherit from a subclass, which itself inherits from another class.",
     source: "Page 47",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 706,
@@ -9881,7 +9881,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class A { void msg() { System.out.println(\"A\"); } } class B extends A { void msg() { System.out.println(\"B\"); } } class C extends B { void msg() { System.out.println(\"C\"); } }",
     source: "Page 47",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 707,
@@ -9895,7 +9895,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Aobj = new C(); obj.msg(); // Output: C",
     source: "Page 47",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 708,
@@ -9909,7 +9909,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Method resolution follows the inheritance chain, starting from the actual object (C) upward.",
     source: "Page 47",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 709,
@@ -9923,7 +9923,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "The instanceof keyword checks if an object is an instance of a given class or subclass.",
     source: "Page 48",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 710,
@@ -9937,7 +9937,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Aobj = new C(); if (obj instanceof C) System.out.println(\"C\"); if (obj instanceof B) System.out.println(\"B\"); if (obj instanceof A) System.out.println(\"A\"); Output: C B A",
     source: "Page 48",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 711,
@@ -9951,7 +9951,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Used to safely downcast or verify object type at runtime.",
     source: "Page 48",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 712,
@@ -9965,7 +9965,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "All classes in Java implicitly extend the Object class.",
     source: "Page 49",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 713,
@@ -9979,7 +9979,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Common methods include: toString(), equals(Object obj), hashCode()",
     source: "Page 49",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 714,
@@ -9993,7 +9993,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "These can be overridden to customize behavior.",
     source: "Page 49",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 715,
@@ -10007,7 +10007,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "class Person { String name; Person(String name) { this.name = name; } @Override public String toString() { r eturn \" Person: \" + name; } }",
     source: "Page 49",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 716,
@@ -10021,7 +10021,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "System.out.println(new Person(\"Alice\")); // Output: Person: Alice",
     source: "Page 49",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 717,
@@ -10035,7 +10035,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "An abstract class cannot be instantiated.",
     source: "Page 50",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 718,
@@ -10049,7 +10049,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "It may contain abstract methods —methods without a body —to be implemented by subclasses.",
     source: "Page 50",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 719,
@@ -10061,9 +10061,9 @@ export const quizData = [
       "class Person { }"
     ],
     correctAnswer: "A",
-    explanation: "abstr act class Animal { abstr act void makeSound(); }",
+    explanation: "abstract class Animal { abstract void makeSound(); }",
     source: "Page 50",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 720,
@@ -10075,9 +10075,9 @@ export const quizData = [
       "extends Person"
     ],
     correctAnswer: "A",
-    explanation: "class Dog extends Animal { void makeSound() { System.out.println(\"Bark\" ); } }",
+    explanation: "class Dog extends Animal { void makeSound() { System.out.println(\"Bark\"); } }",
     source: "Page 50",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 721,
@@ -10091,7 +10091,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Used when you want to define a common base class but enforce method implementation in subclasses.",
     source: "Page 50",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 722,
@@ -10105,7 +10105,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "In Java, a reference variable of a superclass can point to an object of its subclass.",
     source: "Page 51",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 723,
@@ -10119,11 +10119,11 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "This is legal because Dog 'is-a' Animal.",
     source: "Page 51",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 724,
-    question: "Method calls in Refer ence?",
+    question: "Method calls in Reference?",
     options: [
       "Method calls depend on actual object type (polymorphism), which will be covered next.",
       "On reference type only",
@@ -10133,7 +10133,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Method calls depend on actual object type (polymorphism), which will be covered next.",
     source: "Page 51",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 725,
@@ -10145,9 +10145,9 @@ export const quizData = [
       "Interfaces only"
     ],
     correctAnswer: "A",
-    explanation: "You can create an array ofsuperclass type, and store different subclass objects.",
+    explanation: "You can create an array of superclass type, and store different subclass objects.",
     source: "Page 52",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 726,
@@ -10161,7 +10161,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Each element is treated as Animal, but may behave differently.",
     source: "Page 52",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 727,
@@ -10175,7 +10175,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "We'll explore how method calls work with this in Polymorphism.",
     source: "Page 52",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 728,
@@ -10189,7 +10189,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Basic Concepts: extends keyword, superclass vs subclass 'is-a' relationship Benefits: code reuse, hierarchy",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 729,
@@ -10203,7 +10203,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Access Modifier and Inheritance: private: not accessible in subclass, protected: accessible in subclass, public: accessible everywhere, (default): package-level access, Applied to fields and methods",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 730,
@@ -10217,7 +10217,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Constructors and Inheritance: Constructors are not inherited, Using super(...) to call superclass constructor, super(...) must be the first statement, Constructor overloading ≠ overriding",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 731,
@@ -10231,7 +10231,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Method Overriding: Same name, parameters, and compatible return type, Resolved at runtime (dynamic dispatch), Enables polymorphism, Use @Override to ensure correctness",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 732,
@@ -10245,7 +10245,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Access Modifier Rules for Overriding: Cannot reduce visibility when overriding, public → public, protected → protected/public, Overriding private method not allowed (not inherited)",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 733,
@@ -10259,7 +10259,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Static Methods: Hiding, Not Overriding: Static methods belong to class, Method hiding: resolved at compile time by reference type, No polymorphism",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 734,
@@ -10273,7 +10273,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Field Hiding: Same-named field in subclass hides superclass field, Resolved at compile time using reference type, Use super.field to access hidden field",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 735,
@@ -10287,7 +10287,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Common Mistakes in Overriding: Signature mismatch, Incompatible return type, Reducing access modifier, Trying to override final, private, or static method, Forgetting @Override (leads to silent errors)",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 736,
@@ -10301,7 +10301,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Multilevel Inheritance: Class C extends B extends A, super() calls go one level up",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 737,
@@ -10315,7 +10315,7 @@ export const quizData = [
     correctAnswer: "A",
     explanation: "Object Class in Java: All classes inherit from Object, Common methods: toString(), equals(), hashCode()",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 738,
@@ -10327,9 +10327,9 @@ export const quizData = [
       "Constructors not inherited"
     ],
     correctAnswer: "A",
-    explanation: "Reference Type and Arrays: Superclass reference can point to subclass object, Arrays ofsuperclass type can hold different subclass objects, Sets the foundation for polymorphism",
+    explanation: "Reference Type and Arrays: Superclass reference can point to subclass object, Arrays of superclass type can hold different subclass objects, Sets the foundation for polymorphism",
     source: "Page 53",
-    topic: "Inheritance & Polymorphism"
+    topic: "Inheritance"
   },
   {
     id: 739,
@@ -27363,7 +27363,7 @@ export const topics = [
   "All Topics",
   "Classes & Objects",
   "Modifiers & Encapsulation",
-  "Inheritance & Polymorphism",
+  "Inheritance",
   "Polymorphism & Abstract Classes",
   "Interfaces & UML Design",
 ]
